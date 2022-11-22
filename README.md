@@ -31,3 +31,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simobin&show_icons=true&locale=en&layout=compact" alt="simobin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simobin&" alt="simobin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siMobin&show_icons=true&locale=en&theme=tokyonight" alt="siMobin" /></p>
