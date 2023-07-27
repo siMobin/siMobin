@@ -8,7 +8,7 @@
 <img align="right" alt="siMobin" width="200" src="./mobin_readme_img.gif">
 
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **😒**
 
 - 💬 Ask me about **HTML,CSS,JS etc**
 
