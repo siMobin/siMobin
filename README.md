@@ -18,6 +18,27 @@
 <!-- profile views count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simobin&label=Profile%20views&color=0e75b6&style=flat" alt="simobin" /></p>
 
+<!-- games -->
+<div align="center">
+<!-- <span style="font-weight: 900; font-size: 12px; background-image: linear-gradient(45deg, #ff00ff, #00dfff, #1a996f, #1d90fa); -webkit-background-clip: text; color: transparent;">Quest-mates Await: Join the Adventure!</span> -->
+<img  src="./Quest_mates Await Join the Adventure!.svg" height="12px"/>
+
+###
+
+<a href="https://games.app.goo.gl/?link=https://play.google.com/games/invite?key%3DChVhXzg2NzI0MzM2NTUxMDI5MDQyMTcSCjE2OTMwNzAwODA%26cpi%3Da_8672433655102904217%26sig%3DANzvBXj6ZRzU4XkVUXTrNEvn2TLi&apn=com.google.android.play.games&st=Hey,+let's+be+friends+on+Google+Play+Games&amv=168350030&si=https://lh3.googleusercontent.com/_4qiNyc_TBz6yPe5pGy8V4GBByDmAJfmlnPSSaMHYT0Sz7PUBno0oal3YXOI_1nKxr-hQeukc9nKzjNO">
+<img src="https://img.shields.io/static/v1?label=&labelColor=171A21&message=Play Games&color=c4eed4&style=flat&logo=googleplay&logoColor=249e53" alt="Google Play Games"/></a>
+<img width="8" />
+<img width="8" />
+<a href="https://steamcommunity.com/id/siMobin/">
+<img src="https://img.shields.io/static/v1?label=&labelColor=171A21&message=Steam&color=2a475e&style=flat&logo=steam&logoColor=ffff" alt="Steam"/></a>
+<img width="8" />
+<img width="8" />
+<a href="https://launcher.store.epicgames.com/u/cc8f2f33fe2f42a1bf074b9cf3dc69fd">
+<img src="https://img.shields.io/static/v1?label=&labelColor=171A21&message=Epic%20Games&color=1c596d&style=flat&logo=epic%20games&logoColor=ffff" alt="Epic Games"/></a>
+</div>
+
+###
+
 <!-- follow button -->
 
 👉 **_I am always here ..._** [![Github](https://img.shields.io/github/followers/siMobin?label=Follow%20Me&style=social)](https://github.com/siMobin)
@@ -100,6 +121,11 @@
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="20" alt="adobepremierepro logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="20" alt="xd logo"  />
+  <img src="https://img.shields.io/badge/Adobe Acrobat DC-910000?logo=adobeacrobatreader&logoColor=white&style=for-the-badge" height="20" alt="Acrobat DC logo" />
+  <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?logo=adobeindesign&logoColor=white&style=for-the-badge" height="20" alt="InDesign logo" />
+  <img src="https://img.shields.io/badge/Microsoft Word-2B579A?logo=microsoftword&logoColor=white&style=for-the-badge" height="20" alt="Word logo" />
+  <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=for-the-badge" height="20" alt="PowerPoint logo" />
+  <img src="https://img.shields.io/badge/Microsoft Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" height="20" alt="Excel logo" />
 
 </div>
 
