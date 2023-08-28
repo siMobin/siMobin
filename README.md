@@ -45,8 +45,8 @@
 <br>
 
 <!-- trophy -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=8&no-bg=true" alt="simobin" /></a> </p>
-<img align="right" alt="siMobin" width="300" src="./gif.webp">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=?&no-bg=true" alt="simobin" /></a> </p>
+<img align="right" alt="siMobin" width="350" src="./gif.webp">
 
 <!-- info -->
 
@@ -87,7 +87,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simobin&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&hide_border=true" height="150" alt="shakibul islam mobin" />
   <img width="8" />
   <img width="8" />
-  
+
   <img width="8" />
   <img width="8" />
   <img src="https://streak-stats.demolab.com?user=siMobin&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
