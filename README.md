@@ -46,7 +46,7 @@
 
 <!-- trophy -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=8&no-bg=true" alt="simobin" /></a> </p>
-<img align="right" alt="siMobin" width="200" src="./mobin_readme_img.gif">
+<img align="right" alt="siMobin" width="300" src="./gif.gif">
 
 <!-- info -->
 
@@ -97,29 +97,17 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="20" alt="git logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="20" alt="github logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="20" alt="windows8 logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="20" alt="linux logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="20" alt="vscode logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="20" alt="visualstudio logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="20" alt="wordpress logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="20" alt="azure logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/SSMS-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="20" alt="microsoftsqlserver logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="20" alt="adobephotoshop logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="20" alt="adobeillustrator logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="20" alt="adobepremierepro logo"  />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="20" alt="xd logo"  />
   <img src="https://img.shields.io/badge/Adobe Acrobat DC-910000?logo=adobeacrobatreader&logoColor=white&style=for-the-badge" height="20" alt="Acrobat DC logo" />
   <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?logo=adobeindesign&logoColor=white&style=for-the-badge" height="20" alt="InDesign logo" />
