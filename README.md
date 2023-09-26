@@ -1,6 +1,8 @@
 ![MasterHead](./mobin_readme_banner.svg)
 
 <h1 align="center">Shakibul Islam Mobin</h1>
+<img src="./animated-flame-01.gif" width="16px" align="left"/>
+<img src="./animated-flame-01.gif" width="16px" align="right"/>
 <h3 align="center">A passionate frontend developer from BD</h3>
 
 <div align="center">
@@ -123,6 +125,12 @@
   <img src="https://img.shields.io/badge/Microsoft Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" height="20" alt="Excel logo" />
 
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siMobin&custom_title=My%20Activity%20Graph&bg_color=00000000&color=2f81f7&line=914ee8&point=2f81f7&area_color=2f81f7&title_color=2f81f7&area=true" alt="siMobin" width="90%">
+</div>
+<img src="./animated-flame-01.gif" width="16px" align="left"/>
+<img src="./animated-flame-01.gif" width="16px" align="right"/>
 
 <!--
 [
