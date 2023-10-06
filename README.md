@@ -47,7 +47,7 @@
 <br>
 
 <!-- trophy -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=?&no-bg=true" alt="simobin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=?&no-bg=true&no-frame=true" alt="simobin" /></a> </p>
 <img align="right" alt="siMobin" width="350" src="./gif.webp">
 
 <!-- info -->
@@ -83,19 +83,15 @@
 </p>
 
 <!-- charts -->
- <!-- [![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=siMobin&theme=github)](https://github.com/siMobin)  -->
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simobin&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&hide_border=true" height="150" alt="shakibul islam mobin" />
+  <img style="width:45vw;" src="https://github-readme-stats.vercel.app/api?username=simobin&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000" alt="shakibul islam mobin" />
   <img width="8" />
   <img width="8" />
-
+  <img style="width:45vw;" src="https://streak-stats.demolab.com?user=siMobin&theme=transparent&hide_border=true&fire=red&ring=ff9a00" alt="streak graph"/>
   <img width="8" />
   <img width="8" />
-  <img src="https://streak-stats.demolab.com?user=siMobin&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
-  <img width="8" />
-  <img width="8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siMobin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" alt="languages graph"/>
+  <img style="width:45vw;" src="https://github-readme-stats.vercel.app/api/top-langs?username=siMobin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000" alt="languages graph"/>
 </div>
 
 <!-- tools list -->
@@ -129,6 +125,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siMobin&custom_title=My%20Activity%20Graph&bg_color=00000000&color=2f81f7&line=914ee8&point=2f81f7&area_color=2f81f7&title_color=2f81f7&area=true" alt="siMobin" width="90%">
 </div>
+
+
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 
