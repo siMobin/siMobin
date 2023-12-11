@@ -5,6 +5,7 @@
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 <h3 align="center">A passionate frontend developer from BD</h3>
 
+<!-- cSpell:disable -->
 <div align="center">
 <a href="https://www.linkedin.com/in/shakibul-islam-mobin-858467272/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
 <a href="https://twitter.com/si_Mobin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
@@ -16,6 +17,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  /></a>
 
 </div>
+<!-- cSpell:enable -->
 
 <!-- profile views count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simobin&label=Profile%20views&color=0e75b6&style=flat" alt="simobin" /></p>
@@ -78,7 +80,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="35">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  height="50" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"  height="35"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHhhSl3ZLs4_bMJYm0-xYqOlHHdF03YoMSamkCl3vSPKgsdm7OghJy4RfGaagvu_6ck4&usqp=CAU" alt="dotnet"  height="35"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="50" /> 
 <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" alt="Microsoft sql"  height="40"/>
@@ -102,7 +104,7 @@
 ###
 
 ###
-
+<!-- cSpell:disable -->
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="20" alt="git logo"  />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="20" alt="github logo"  />
@@ -134,7 +136,7 @@
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 </div>
-
+<!-- cSpell:enable -->
 <!--
 [
     ref: https://profile-readme-generator.com/
