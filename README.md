@@ -81,6 +81,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  height="50" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40" /> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHhhSl3ZLs4_bMJYm0-xYqOlHHdF03YoMSamkCl3vSPKgsdm7OghJy4RfGaagvu_6ck4&usqp=CAU" alt="dotnet"  height="35"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="50" /> 
 <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" alt="Microsoft sql"  height="40"/>
