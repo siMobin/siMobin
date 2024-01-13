@@ -77,8 +77,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"  height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3"  height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="45" />
+<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind"  height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="35">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  height="50" /> 
+<img src="https://laravel.com/img/logomark.min.svg" alt="laravel"  height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40" /> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHhhSl3ZLs4_bMJYm0-xYqOlHHdF03YoMSamkCl3vSPKgsdm7OghJy4RfGaagvu_6ck4&usqp=CAU" alt="dotnet"  height="35"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo">
