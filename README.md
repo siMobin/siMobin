@@ -3,22 +3,22 @@
 <h1 align="center">Shakibul Islam Mobin</h1>
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
-<h3 align="center">A passionate frontend developer from BD</h3>
+<h3 align="center">A passionate full stack developer from BD</h3>
 
 <!-- cSpell:disable -->
 <div align="center">
-<a href="https://www.linkedin.com/in/shakibul-islam-mobin-858467272/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+<a href="https://www.linkedin.com/in/md-shakibul-islam-858467272/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
 <a href="https://twitter.com/si_Mobin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
 <a href="https://www.facebook.com/shakibul.mobin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1907A0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+<!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a> -->
 <a href="https://www.hackerrank.com/shakibulislammo1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"/></a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  /></a>
+<!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  /></a> -->
 
 </div>
 <!-- cSpell:enable -->
-
+<br>
 <!-- profile views count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simobin&label=Profile%20views&color=0e75b6&style=flat" alt="simobin" /></p>
 
