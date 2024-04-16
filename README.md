@@ -1,4 +1,4 @@
-![MasterHead](./mobin_readme_banner.svg)
+![siMobin mobin shakibul-islam-mobin github simobin](./mobin_readme_banner.svg)
 
 <h1 align="center">Shakibul Islam Mobin</h1>
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
@@ -50,7 +50,7 @@
 
 <!-- trophy -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=?&no-bg=true&no-frame=true" alt="simobin" /></a> </p>
-<img align="right" alt="siMobin" width="350" src="./gif.webp">
+<img align="right" alt="siMobin shakibul-islam-mobin mobin github" width="350" src="./gif.webp">
 
 <!-- info -->
 
