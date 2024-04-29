@@ -69,6 +69,7 @@
 <!-- tools -->
 <!-- icon -->
 <h3 align="left">Languages and Framework:</h3>
+<!-- 
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"  height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  height="40" />
@@ -88,7 +89,51 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="50" /> 
 <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" alt="Microsoft sql"  height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"/>
+</div> -->
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=sass" height="35" alt="sass logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dot-net logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo"  />
+  <img width="8" />
+  <img src="./extra/composer.svg" height="35" alt="composer logo"  />
+  <img width="8" />
+  <img src="./extra//mssql-logo.png" height="35" alt="microsoftsqlserver logo"  />
+  <img width="8" />
+  <img src="./extra/livewire.svg" height="35" alt="livewire logo"  />
 </div>
+
+###
 
 <!-- charts -->
 
