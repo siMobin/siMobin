@@ -94,6 +94,7 @@
 <br clear="both">
 
 <div align="center">
+<<<<<<< HEAD
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
@@ -131,6 +132,45 @@
   <img src="./extra//mssql-logo.png" height="35" alt="microsoftsqlserver logo"  />
   <img width="8" />
   <img src="./extra/livewire.svg" height="35" alt="livewire logo"  />
+=======
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
+  <img width="10" />
+  <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" height="30" alt="microsoftsqlserver logo"  />
+  <img width="10" />
+  <img src="./extra/livewire.svg" height="25" alt="livewire logo"  />
+>>>>>>> 80dae090611e87028b3dddb3538cf2582b9a7cf4
 </div>
 
 ###
