@@ -11,7 +11,7 @@
 <a href="https://twitter.com/si_Mobin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
 <a href="https://www.facebook.com/shakibul.mobin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1907A0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
 <!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a> -->
-<a href="https://www.hackerrank.com/shakibulislammo1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"/></a>
+<a href="https://www.hackerrank.com/profile/shakibulislam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"/></a>
 <!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  /></a> -->
@@ -118,6 +118,8 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dot-net logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
@@ -125,8 +127,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo"  />
-  <img width="8" />
-  <img src="./extra/composer.svg" height="35" alt="composer logo"  />
+  <!-- <img width="8" /> -->
+  <!-- <img src="./extra/composer.svg" height="35" alt="composer logo"  /> -->
   <img width="8" />
   <img src="./extra//mssql-logo.png" height="35" alt="microsoftsqlserver logo"  />
   <img width="8" />
@@ -153,6 +155,7 @@
 ###
 
 ###
+
 <!-- cSpell:disable -->
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="20" alt="git logo"  />
@@ -164,6 +167,9 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="20" alt="wordpress logo"  />
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="20" alt="azure logo"  />
   <img src="https://img.shields.io/badge/SSMS-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="20" alt="microsoftsqlserver logo"  />
+  <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white&style=for-the-badge" height="20" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="20" alt="npm logo"  />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="20" alt="adobephotoshop logo"  />
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="20" alt="adobeillustrator logo"  />
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="20" alt="adobepremierepro logo"  />
@@ -179,7 +185,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siMobin&custom_title=My%20Activity%20Graph&bg_color=00000000&color=2f81f7&line=914ee8&point=2f81f7&area_color=2f81f7&title_color=2f81f7&area=true" alt="siMobin" width="90%">
 </div>
-
 
 <div align="center">
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
