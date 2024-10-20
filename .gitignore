@@ -1,0 +1,11 @@
+*temp*
+*.txt
+.vscode
+
+# latex
+*.aux
+*.fls
+*.log
+*.out
+*.fdb_*
+*.gz

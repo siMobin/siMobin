@@ -1,0 +1,108 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=0.8in}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{fontawesome}  % For icons
+
+% Colors
+\definecolor{primary}{RGB}{0,76,153}
+\definecolor{secondary}{RGB}{50,50,50}
+\definecolor{accent}{RGB}{128,128,128}
+
+% Font formatting
+\renewcommand{\familydefault}{\sfdefault}  % Use a sans-serif font
+\usepackage{helvet}
+
+% Custom section formatting
+\titleformat{\section}{\large\bfseries\color{primary}}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\normalsize\bfseries\color{secondary}}{}{0em}{}
+
+% Define a command for icons + links
+\newcommand{\icontext}[2]{\faicon{#1} \hspace{0.2cm} #2}
+
+% Header
+\pagestyle{empty}
+
+\begin{document}
+
+% Name and contact information
+\begin{center}
+    {\Huge \textbf{Md. Shakibul Islam}}\\
+    \vspace{5mm}
+    \color{secondary}
+    \icontext{envelope}{\href{mailto:shakibulislammobin@gmail.com}{shakibulislammobin@gmail.com}} \hspace{0.5cm}
+    \icontext{phone}{+8801746 301800} \hspace{0.5cm}
+    \icontext{github}{\href{https://github.com/siMobin}{siMobin}} \hspace{0.5cm}
+    \icontext{linkedin}{\href{https://www.linkedin.com/in/md-shakibul-islam-858467272/}{Md Shakibul Islam}} \\
+    \vspace{3mm}
+    Dhaka, Bangladesh
+\end{center}
+\vspace{3mm}
+
+% Objective
+\section*{Objective}
+Motivated and detail-oriented Computer Science and Engineering (CSE) student with expertise in software development, AI, web development, and graphic design. Adept at creating innovative solutions with a focus on high-quality user experience and design. Seeking a challenging position to leverage technical and creative skills in a dynamic team environment.
+\vspace{4mm}
+
+% Education
+\section*{Education}
+\textbf{Bachelor of Science in Computer Science and Engineering (CSE)} \hfill \textit{Expected Graduation: 2025} \\
+Stamford University Bangladesh
+\vspace{4mm}
+
+% Skills
+\section*{Skills}
+\begin{itemize}[leftmargin=1cm, label={\color{primary}\textbullet}]
+    \item \textbf{Graphic Design}: Adobe Photoshop, Adobe Illustrator, Adobe XD, Premiere Pro
+    \item \textbf{Programming Languages}: Java, PHP, JavaScript, Python, C++, C
+    \item \textbf{Web Development}: HTML, CSS, SCSS, JavaScript
+    \item \textbf{Database}: Microsoft SQL Server
+    \item \textbf{Frameworks \& Libraries}: Laravel, Livewire, Tailwind CSS
+    \item \textbf{Tools}: Git, GitHub, VS Code, Microsoft Office, Linux, Windows
+\end{itemize}
+\vspace{2mm}
+
+% Professional Experience
+\input{Professional Experience.tex}
+\vspace{4mm}
+% Projects
+\input{Projects.tex}
+\vspace{4mm}
+
+% Certifications
+\section*{Certifications}
+\begin{itemize}[leftmargin=1cm, label={\color{primary}\textbullet}]
+    \item \textbf{Digital Marketing} - \textit{Future IT \& Language Training Institute | 2023}
+\end{itemize}
+
+\vspace{4mm}
+
+% Extracurricular Activities
+\section*{Extracurricular Activities}
+\begin{itemize}[leftmargin=1cm, label={\color{primary}\textbullet}]
+    \item Active participant in coding competitions, Hackerrank challenges.
+    \item Contributor to open-source projects.
+\end{itemize}
+
+\vspace{4mm}
+
+% Languages
+\section*{Languages}
+\begin{itemize}[leftmargin=1cm, label={\color{primary}\textbullet}]
+    \item \textbf{Bengali}: Native
+    \item \textbf{English}: Fluent
+\end{itemize}
+
+\vspace{4mm}
+
+% References
+% \section*{References}
+% Available upon request.
+
+\end{document}

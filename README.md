@@ -133,6 +133,8 @@
   <img src="./extra//mssql-logo.png" height="35" alt="microsoftsqlserver logo"  />
   <img width="8" />
   <img src="./extra/livewire.svg" height="35" alt="livewire logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=latex" height="35" alt="latex logo"  />
 
 </div>
 
