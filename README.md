@@ -62,6 +62,8 @@
 
 - 🗨️Whatsapp **[+8801-7463-01800](https://wa.me/01746301800)**
 
+- 🤵CV -- **[Click here](./CV/main.pdf)** to view
+
 - ⚡ Me **🤨😒**
 
 <hr>

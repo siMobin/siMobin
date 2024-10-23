@@ -1,108 +1,108 @@
-\documentclass[a4paper,10pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage{geometry}
-\geometry{a4paper, margin=0.8in}
-\usepackage{enumitem}
-\usepackage{titlesec}
-\usepackage[hidelinks]{hyperref}
+\documentclass[10pt,a4paper,ragged2e,withhyper]{files/altacv}
+% Change the page layout if you need to
+\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.25cm}
+\usepackage{paracol}
+\usepackage[backend=biber,style=ieee,sorting=ydnt,defernumbers=true]{biblatex}
+% Font selection for pdflatex
+\usepackage[rm]{roboto}
+\usepackage[defaultsans]{lato}
+\renewcommand{\familydefault}{\sfdefault}
 
-\usepackage{graphicx}
-\usepackage{xcolor}
-\usepackage{fontawesome}  % For icons
-
-% Colors
+% Original colors
 \definecolor{primary}{RGB}{0,76,153}
 \definecolor{secondary}{RGB}{50,50,50}
-\definecolor{accent}{RGB}{128,128,128}
+\colorlet{name}{black}
+\colorlet{tagline}{primary}
+\colorlet{heading}{primary}
+\colorlet{headingrule}{primary}
+\colorlet{subheading}{secondary}
+\colorlet{accent}{primary}
+\colorlet{emphasis}{secondary}
+\colorlet{body}{secondary}
 
-% Font formatting
-\renewcommand{\familydefault}{\sfdefault}  % Use a sans-serif font
-\usepackage{helvet}
-
-% Custom section formatting
-\titleformat{\section}{\large\bfseries\color{primary}}{}{0em}{}[\titlerule]
-\titleformat{\subsection}{\normalsize\bfseries\color{secondary}}{}{0em}{}
-
-% Define a command for icons + links
-\newcommand{\icontext}[2]{\faicon{#1} \hspace{0.2cm} #2}
-
-% Header
-\pagestyle{empty}
+% Font and formatting settings
+\renewcommand{\namefont}{\Large\rmfamily\bfseries}
+\renewcommand{\personalinfofont}{\footnotesize\textit}
+\renewcommand{\cvsectionfont}{\large\rmfamily\bfseries}
+\renewcommand{\cvsubsectionfont}{\large\bfseries}
 
 \begin{document}
 
-% Name and contact information
-\begin{center}
-    {\Huge \textbf{Md. Shakibul Islam}}\\
-    \vspace{5mm}
-    \color{secondary}
-    \icontext{envelope}{\href{mailto:shakibulislammobin@gmail.com}{shakibulislammobin@gmail.com}} \hspace{0.5cm}
-    \icontext{phone}{+8801746 301800} \hspace{0.5cm}
-    \icontext{github}{\href{https://github.com/siMobin}{siMobin}} \hspace{0.5cm}
-    \icontext{linkedin}{\href{https://www.linkedin.com/in/md-shakibul-islam-858467272/}{Md Shakibul Islam}} \\
+\name{Md. Shakibul Islam}
+\tagline{\normalsize{Computer Engineer | Graphic Designer}}
+\vspace{4mm}
+\personalinfo{
+    \email{shakibulislammobin@gmail.com}
+    \phone{+8801746 301800}
+    \github{siMobin}
+    \linkedin{md-shakibul-islam-858467272}
+    \location{Dhaka, Bangladesh}
+}
+\makecvheader
+% \vspace{4mm}
+\divider
+\columnratio{0.6}
+
+\begin{paracol}{2}
+
+    % Experience
+    \cvsection{Work Experience}
+    \cvevent{{Graphic Designer}}{Youth For Bangladesh \hfill 2022 -- Present}{}{}
+    \begin{itemize}
+        \item Designed branding materials, social media content, and web graphics.
+    \end{itemize}
+
+    \divider
+    \cvevent{{Computer Network Specialist}}{Self-Employed \hfill Present}{}{}
+    \begin{itemize}
+        \item Provided networking solutions to individuals and small businesses.
+    \end{itemize}
+    \vspace{4mm}
+
+    % Projects
+    \cvsection{Projects}
+    \cvevent{Super Mario Runner \hfill \small\textit{Java-based Game}}{}{}{Developed a game combining Chrome Dino and Super Mario Bros elements.}
+
+    \divider
+
+    \cvevent{Airline Management System \hfill \small\textit{PHP, SCSS, Microsoft SQL}}{}{}{Created a private jet hiring service simulation with full user authentication.}
     \vspace{3mm}
-    Dhaka, Bangladesh
-\end{center}
-\vspace{3mm}
+    \textit{For more information, visit \href{https://github.com/siMobin/}{github/siMobin}.}
+    \vspace{4mm}
 
-% Objective
-\section*{Objective}
-Motivated and detail-oriented Computer Science and Engineering (CSE) student with expertise in software development, AI, web development, and graphic design. Adept at creating innovative solutions with a focus on high-quality user experience and design. Seeking a challenging position to leverage technical and creative skills in a dynamic team environment.
-\vspace{4mm}
+    % Certifications
+    \cvsection{Certifications}
 
-% Education
-\section*{Education}
-\textbf{Bachelor of Science in Computer Science and Engineering (CSE)} \hfill \textit{Expected Graduation: 2025} \\
-Stamford University Bangladesh
-\vspace{4mm}
+    \cvachievement{\faCertificate}{Digital Marketing}{Future IT \& Language Training Institute, 2023}
 
-% Skills
-\section*{Skills}
-\begin{itemize}[leftmargin=1cm, label={\color{primary}\textbullet}]
-    \item \textbf{Graphic Design}: Adobe Photoshop, Adobe Illustrator, Adobe XD, Premiere Pro
-    \item \textbf{Programming Languages}: Java, PHP, JavaScript, Python, C++, C
-    \item \textbf{Web Development}: HTML, CSS, SCSS, JavaScript
-    \item \textbf{Database}: Microsoft SQL Server
-    \item \textbf{Frameworks \& Libraries}: Laravel, Livewire, Tailwind CSS
-    \item \textbf{Tools}: Git, GitHub, VS Code, Microsoft Office, Linux, Windows
-\end{itemize}
-\vspace{2mm}
+    % Switch column for Skills, Education, etc.
+    \switchcolumn
 
-% Professional Experience
-\input{Professional Experience.tex}
-\vspace{4mm}
-% Projects
-\input{Projects.tex}
-\vspace{4mm}
 
-% Certifications
-\section*{Certifications}
-\begin{itemize}[leftmargin=1cm, label={\color{primary}\textbullet}]
-    \item \textbf{Digital Marketing} - \textit{Future IT \& Language Training Institute | 2023}
-\end{itemize}
+    % Skills
+    \cvsection{Skills}
+    % Define a command for skills tags without borders
+    \newcommand{\skilltag}[2]{\textbf{#1:} #2}
+    % Skills section with gaps
+    \skilltag{Graphic Design}{Photoshop, Illustrator, XD, Premiere Pro}\\[0.5em] % Adjust the gap as needed
+    \skilltag{Programming Languages}{Java, PHP, JavaScript, Python, C++, C}\\[0.5em]
+    \skilltag{Web Development}{HTML, CSS, SCSS, JavaScript}\\[0.5em]
+    \skilltag{Database}{Microsoft SQL Server}\\[0.5em]
+    \skilltag{Frameworks}{Laravel, Livewire, Tailwind CSS}\\[0.5em]
+    \skilltag{Tools}{Git, GitHub, VS Code, Office, Linux, Windows}
+    \vspace{4mm}
 
-\vspace{4mm}
+    % Education
+    \cvsection{Education}
+    \cvevent{\normalsize{BSc in Computer Science and Engineering}}{Stamford University Bangladesh}{Expected: 2025}{}
+    \vspace{4mm}
 
-% Extracurricular Activities
-\section*{Extracurricular Activities}
-\begin{itemize}[leftmargin=1cm, label={\color{primary}\textbullet}]
-    \item Active participant in coding competitions, Hackerrank challenges.
-    \item Contributor to open-source projects.
-\end{itemize}
+    % Languages
+    \cvsection{Languages}
+    \begin{itemize}[leftmargin=1cm, label={\color{primary}}, itemsep=0pt]
+        \item \textbf{Bengali}: Native \hspace{0.5cm} \textbf{English}: Fluent
+    \end{itemize}
 
-\vspace{4mm}
-
-% Languages
-\section*{Languages}
-\begin{itemize}[leftmargin=1cm, label={\color{primary}\textbullet}]
-    \item \textbf{Bengali}: Native
-    \item \textbf{English}: Fluent
-\end{itemize}
-
-\vspace{4mm}
-
-% References
-% \section*{References}
-% Available upon request.
+\end{paracol}
 
 \end{document}

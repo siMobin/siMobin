@@ -9,3 +9,10 @@
 *.out
 *.fdb_*
 *.gz
+
+# altacv
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+pdfa.xmp*
