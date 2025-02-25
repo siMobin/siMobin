@@ -1,4 +1,4 @@
-![siMobin mobin shakibul-islam-mobin github simobin](./mobin_readme_banner.svg)
+![siMobin mobin shakibul-islam-mobin github simobin](./mobin_readme_banner-min.svg)
 
 <h1 align="center">Shakibul Islam Mobin</h1>
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
@@ -10,21 +10,17 @@
 <a href="https://www.linkedin.com/in/md-shakibul-islam-858467272/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
 <a href="https://twitter.com/si_Mobin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
 <a href="https://www.facebook.com/shakibul.mobin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1907A0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/></a>
-<!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a> -->
 <a href="https://www.hackerrank.com/profile/shakibulislam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"/></a>
+<!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"/></a> -->
 <!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"/></a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  /></a> -->
+ -->
 
 </div>
 <!-- cSpell:enable -->
 <br>
-<!-- profile views count -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simobin&label=Profile%20views&color=0e75b6&style=flat" alt="simobin" /></p>
 
 <!-- games -->
 <div align="center">
-<!-- <span style="font-weight: 900; font-size: 12px; background-image: linear-gradient(45deg, #ff00ff, #00dfff, #1a996f, #1d90fa); -webkit-background-clip: text; color: transparent;">Quest-mates Await: Join the Adventure!</span> -->
 <img  src="./Quest_mates Await Join the Adventure!.svg" height="12px"/>
 
 ###
@@ -43,10 +39,14 @@
 
 ###
 
+<!-- profile views count -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simobin&label=Profile%20views&color=0e75b6&style=flat" alt="simobin" /></p>
 <!-- follow button -->
 
 👉 **_I am always here ..._** [![Github](https://img.shields.io/github/followers/siMobin?label=Follow%20Me&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FsiMobin)
 <br>
+
+---
 
 <!-- trophy -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=?&no-bg=true&no-frame=true" alt="simobin" /></a> </p>
@@ -134,7 +134,7 @@
   <img width="8" />
   <img src="./extra//mssql-logo.png" height="35" alt="microsoftsqlserver logo"  />
   <img width="8" />
-  <img src="./extra/livewire.svg" height="35" alt="livewire logo"  />
+  <img src="./extra/livewire-min.svg" height="35" alt="livewire logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=latex" height="35" alt="latex logo"  />
 
@@ -168,7 +168,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="20" alt="linux logo"  />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="20" alt="vscode logo"  />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="20" alt="visualstudio logo"  />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="20" alt="wordpress logo"  />
+  <!-- <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="20" alt="wordpress logo"  /> -->
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="20" alt="azure logo"  />
   <img src="https://img.shields.io/badge/SSMS-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="20" alt="microsoftsqlserver logo"  />
   <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white&style=for-the-badge" height="20" alt="composer logo"  />
