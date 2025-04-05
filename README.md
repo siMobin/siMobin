@@ -65,10 +65,11 @@
 
 ```console
 $ whoami
-A relentless computer engineer, navigating code, life, and chaos
+Just a variant rewriting timelines with code
 
 $ uptime
-System running on overthinking, frustration and waiting for her appearance
+System running on overthinking, frustration and
+waiting for her appearance
 
 $ cat contact.me
 Email: shakibulislammobin@gmail.com
@@ -76,7 +77,7 @@ WhatsApp: +8801746-301800
 ```
 
 <details>
-<summary align="center" style="list-style: none;cursor: pointer;"><samp cursor="pointer">Explore More</samp></summary>
+<summary align="center" style="list-style: none;cursor: pointer;"><samp cursor="pointer">Terminal State of Mind (Click to explore)</samp></summary>
 <br>
 
 ```console
