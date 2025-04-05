@@ -33,8 +33,7 @@
 
 <img  src="./Quest_mates Await Join the Adventure!.svg" height="12px"/>
 
-<br>
-<!-- ### -->
+###
 
 <a href="https://games.app.goo.gl/?link=https://play.google.com/games/invite?key%3DChVhXzg2NzI0MzM2NTUxMDI5MDQyMTcSCjE2OTMwNzAwODA%26cpi%3Da_8672433655102904217%26sig%3DANzvBXj6ZRzU4XkVUXTrNEvn2TLi&apn=com.google.android.play.games&st=Hey,+let's+be+friends+on+Google+Play+Games&amv=168350030&si=https://lh3.googleusercontent.com/_4qiNyc_TBz6yPe5pGy8V4GBByDmAJfmlnPSSaMHYT0Sz7PUBno0oal3YXOI_1nKxr-hQeukc9nKzjNO">
 <img src="https://img.shields.io/static/v1?label=&labelColor=171A21&message=Play Games&color=c4eed4&style=flat&logo=googleplay&logoColor=249e53" alt="Google Play Games"/></a>
@@ -130,28 +129,7 @@ Permission denied: Missing dependency — life partner not found
 
 <!-- tools -->
 <!-- icon -->
-<h3 align="left">Languages and Framework:</h3>
-<!--
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"  height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"  height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"  height="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3"  height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="45" />
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind"  height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="35">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  height="50" />
-<img src="https://laravel.com/img/logomark.min.svg" alt="laravel"  height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHhhSl3ZLs4_bMJYm0-xYqOlHHdF03YoMSamkCl3vSPKgsdm7OghJy4RfGaagvu_6ck4&usqp=CAU" alt="dotnet"  height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="50" />
-<img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" alt="Microsoft sql"  height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"/>
-</div> -->
+<h3 align="center">Languages and Frameworks:</h3>
 
 <br clear="both">
 
@@ -254,11 +232,12 @@ Permission denied: Missing dependency — life partner not found
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 </div>
+
 <!-- cSpell:enable -->
+
 <!--
 [
     ref: https://profile-readme-generator.com/
          https://github.com/maurodesouza/profile-readme-generator
 ]
  -->
-```
