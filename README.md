@@ -1,6 +1,6 @@
 ![siMobin mobin shakibul-islam-mobin github simobin](./mobin_readme_banner-min.svg)
 
-<h1 align="center">Shakibul Islam Mobin</h1>
+<!-- <h1 align="center">Shakibul Islam Mobin</h1> -->
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 <!-- <h3 align="center">A passionate full stack developer from BD</h3> -->
@@ -24,11 +24,8 @@
 <a href="https://www.hackerrank.com/profile/shakibulislam" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"/></a>
 
 <!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"/></a> -->
-<!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"/></a>
- -->
 
 <!-- cSpell:enable -->
-<!-- <br> -->
 
 <!-- games -->
 
@@ -58,34 +55,82 @@
 <!-- follow button -->
 
 <!-- 👉 **_I am always here ..._** [![Github](https://img.shields.io/github/followers/siMobin?label=Follow%20Me&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FsiMobin) -->
-<br>
 
 ---
 
 <!-- trophy -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=?&no-bg=true&no-frame=true" alt="simobin" /></a> </p>
-<img align="right" alt="siMobin shakibul-islam-mobin mobin github" width="350" src="./gif.webp">
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=?&no-bg=true&no-frame=true" alt="simobin" /></p>
 
-<!-- info -->
+<img alt="siMobin" align="right" width="400" src="./gif.webp">
 
-- 🌱 I’m currently learning **😒**
+```console
+$ whoami
+A relentless computer engineer, navigating code, life, and chaos
 
-- 💬 Ask me about **Anything!!!**
+$ uptime
+System running on overthinking, frustration and waiting for her appearance
 
-- 📫 Email **shakibulislammobin@gmail.com**
+$ cat contact.me
+Email: shakibulislammobin@gmail.com
+WhatsApp: +8801746-301800
+```
 
-- 🗨️Whatsapp **[+8801-7463-01800](https://wa.me/01746301800)**
+<details>
+<summary align="center" style="list-style: none;cursor: pointer;"><samp cursor="pointer">Explore More</samp></summary>
+<br>
 
-- 🤵CV -- **[Click here](./CV/main.pdf)** to view
+```console
+$ cat /var/log/motivation.log | grep "success"
+No matches found
 
-- ⚡ Me **🤨😒**
+$ rm -rf /life /depression /pain /failure
+Operation not permitted - Dependency not found: soulmate.so
+
+$ ls /emotions
+No such file or directory
+
+$ ping -c 1 reality
+reality is unreachable (100% packet loss)
+
+$ cat ~/heart.conf
+Error: Module not found: soulmate.so
+
+$ curl https://love.com/soulmate.so
+curl: (408) Request Timeout – Reconnecting...
+
+$ top
+PID    USER         TASK
+000   siMobin      overthinking
+001   root         pretending-to-be-okay
+002   siMobin      missing-her
+003   siMobin      replaying-conversations
+004   root         simulating-imaginary-future
+005   siMobin      scrolling-old-chats
+006   root         coding-to-escape
+
+$ top -u siMobin
+PID    USER         TASK
+000   siMobin      loneliness
+001   siMobin      desperation
+002   siMobin      seeking-love
+003   siMobin      wondering-where-she-is
+004   siMobin      scrolling-through-memes
+
+$ df -h /love
+Not enough resources – Insufficient funds
+
+$ sudo reboot --hope
+Permission denied: Missing dependency — life partner not found
+```
+
+</details>
 
 <hr>
 
 <!-- tools -->
 <!-- icon -->
 <h3 align="left">Languages and Framework:</h3>
-<!-- 
+<!--
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"  height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  height="40" />
@@ -96,13 +141,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="45" />
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind"  height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="35">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  height="50" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  height="50" />
 <img src="https://laravel.com/img/logomark.min.svg" alt="laravel"  height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40" /> 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHhhSl3ZLs4_bMJYm0-xYqOlHHdF03YoMSamkCl3vSPKgsdm7OghJy4RfGaagvu_6ck4&usqp=CAU" alt="dotnet"  height="35"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHhhSl3ZLs4_bMJYm0-xYqOlHHdF03YoMSamkCl3vSPKgsdm7OghJy4RfGaagvu_6ck4&usqp=CAU" alt="dotnet"  height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="50" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="50" />
 <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" alt="Microsoft sql"  height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"/>
 </div> -->
@@ -136,15 +181,9 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="latex logo"  />
   <!-- <img width="8" />
-  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  /> -->
-  <!-- <img width="8" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dot-net logo"  /> -->
-  <!-- <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  /> -->
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <!-- <img width="8" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo"  /> -->
   <!-- <img width="8" /> -->
   <!-- <img src="./extra/composer.svg" height="35" alt="composer logo"  /> -->
   <img width="8" />
@@ -221,3 +260,4 @@
          https://github.com/maurodesouza/profile-readme-generator
 ]
  -->
+```
