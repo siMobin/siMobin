@@ -129,7 +129,7 @@ Permission denied: Missing dependency — life partner not found
 
 <!-- tools -->
 <!-- icon -->
-<h3 align="center">Languages and Frameworks:</h3>
+<h3 align="center">Languages, Frameworks & Tools:</h3>
 
 <br clear="both">
 
@@ -210,22 +210,15 @@ Permission denied: Missing dependency — life partner not found
 
 ###
 
+###
+
 <!-- charts -->
 
 <div align="center">
-  <img style="width:45%;" src="https://github-readme-stats.vercel.app/api?username=simobin&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=siMobin's%20stats" alt="shakibul islam mobin" />
-  <!-- <img width="8" />
-  <img width="8" />
-  <img style="width:45vw;" src="https://streak-stats.demolab.com?user=siMobin&theme=transparent&hide_border=true&fire=red&ring=ff9a00" alt="streak graph"/> -->
-  <img width="8" />
-  <img width="8" />
-  <img style="width:34%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=siMobin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" alt="languages graph"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siMobin&custom_title=My%20Activity%20Graph&bg_color=00000000&color=2f81f7&line=914ee8&point=2f81f7&area_color=2f81f7&title_color=2f81f7&area=true" alt="siMobin" width="90%">
+  <img style="width:55%;" align="left" src="https://github-stats-theta-one.vercel.app/api?username=simobin&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=siMobin's%20stats&rank_icon=percentile&show_icons=true&icon_color=428EEE&ring_color=428EEE&show_owner=true&show=reviews,prs_merged_percentage" alt="shakibul islam mobin" />
+  <img style="width:40%;" align="right" src="https://github-stats-theta-one.vercel.app/api/top-langs?username=siMobin&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000" alt="languages graph"/>
+  <img style="width:70%;" align="center" src="https://github-readme-streak-stats-ff-ten.vercel.app?user=siMobin&theme=transparent&hide_border=true&fire=red&ring=ff9a00&short_numbers=true&stroke=EBEBEB10" alt="siMobin's streak graph"/>
+  <img style="width:100%;" align="center" src="https://github-readme-activity-graph-rose-two.vercel.app/graph?username=siMobin&custom_title= &bg_color=00000000&color=2f81f7&line=008080&point=428EEE&area_color=2f81f7&title_color=428EEE&area=true&days=45&radius=16&hide_border=true" alt="siMobin">
 </div>
 
 <div align="center">
