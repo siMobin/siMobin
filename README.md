@@ -66,7 +66,7 @@
 $ whoami
 Just a variant rewriting timelines with code
 
-$ uptime
+$ uptime -p
 System running on overthinking, frustration and
 waiting for her appearance
 
@@ -182,30 +182,23 @@ Permission denied: Missing dependency — life partner not found
 
 ###
 
-<!-- cSpell:disable -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="20" alt="git logo"  />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="20" alt="github logo"  />
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="20" alt="windows8 logo"  />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="20" alt="linux logo"  />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="20" alt="vscode logo"  />
-  <!-- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="20" alt="visualstudio logo"  /> -->
-  <!-- <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="20" alt="wordpress logo"  /> -->
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="20" alt="azure logo"  />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="20" alt="googlecloud logo"  />
-  <!-- <img src="https://img.shields.io/badge/SSMS-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="20" alt="microsoftsqlserver logo"  /> -->
-  <!-- <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white&style=for-the-badge" height="20" alt="composer logo"  /> -->
-  <!-- <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="20" alt="npm logo"  /> -->
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="20" alt="adobephotoshop logo"  />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="20" alt="adobeillustrator logo"  />
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="20" alt="adobepremierepro logo"  />
-  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="20" alt="xd logo"  />
-  <!-- <img src="https://img.shields.io/badge/Adobe Acrobat DC-910000?logo=adobeacrobatreader&logoColor=white&style=for-the-badge" height="20" alt="Acrobat DC logo" /> -->
-  <!-- <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?logo=adobeindesign&logoColor=white&style=for-the-badge" height="20" alt="InDesign logo" /> -->
-  <img src="https://img.shields.io/badge/Microsoft Word-2B579A?logo=microsoftword&logoColor=white&style=for-the-badge" height="20" alt="Word logo" />
-  <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=for-the-badge" height="20" alt="PowerPoint logo" />
-  <img src="https://img.shields.io/badge/Microsoft Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" height="20" alt="Excel logo" />
-  <!-- <img src="https://img.shields.io/badge/Microsoft%20Visio-3952A3?logo=microsoftvisio&logoColor=white&style=for-the-badge" height="20" alt="Visio logo" /> -->
+  <img src="badges/linux.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/windows.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/git.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/github.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/github-actions.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/vs-code.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/microsoft-azure.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/google-cloud.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/vercel.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/photoshop.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/illustrator.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/premierepro.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/xd.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/msword.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/mspowerpoint.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/msexcel.svg" style="height:20px; vertical-align:middle;"/>
 </div>
 
 ###
@@ -230,6 +223,7 @@ Permission denied: Missing dependency — life partner not found
 
 <!--
 [
+    Icon: https://svgoptimizer.com/
     ref: https://profile-readme-generator.com/
          https://github.com/maurodesouza/profile-readme-generator
 ]
