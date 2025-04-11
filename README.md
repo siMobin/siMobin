@@ -130,50 +130,40 @@ Permission denied: Missing dependency — life partner not found
 <!-- tools -->
 <!-- icon -->
 <h3 align="center">Languages, Frameworks & Tools:</h3>
-
-<br clear="both">
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
-  <!-- <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  /> -->
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="35" alt="sass logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flask" height="35" alt="latex logo"  />
-  <!-- <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  /> -->
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <!-- <img width="8" /> -->
-  <!-- <img src="./extra/composer.svg" height="35" alt="composer logo"  /> -->
-  <img width="8" />
-  <img src="./extra//mssql-logo.png" height="35" alt="microsoftsqlserver logo"  />
-  <!-- <img width="8" />
-  <img src="./extra/livewire-min.svg" height="35" alt="livewire logo"  /> -->
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=md" height="35" alt="latex logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=latex" height="35" alt="latex logo"  />
-
+<img src="icons/C.svg" height="30"/>
+<img width="4" />
+<img src="icons/CPP.svg" height="30"/>
+<img width="4" />
+<img src="icons/Java-Dark.svg" height="30"/>
+<img width="4" />
+<img src="icons/JavaScript.svg" height="30"/>
+<img width="4" />
+<img src="icons/HTML.svg" height="30"/>
+<img width="4" />
+<img src="icons/CSS.svg" height="30"/>
+<img width="4" />
+<img src="icons/Sass.svg" height="30"/>
+<img width="4" />
+<img src="icons/TailwindCSS-Dark.svg" height="30"/>
+<img width="4" />
+<img src="icons/PHP-Dark.svg" height="30"/>
+<img width="4" />
+<img src="icons/Laravel-Dark.svg" height="30"/>
+<img width="4" />
+<img src="icons/Python-Dark.svg" height="30"/>
+<img width="4" />
+<img src="icons/Flask-Dark.svg" height="30"/>
+<img width="4" />
+<img src="icons/Microsoft-SQL.svg" height="30"/>
+<img width="4" />
+<img src="icons/MySQL-Dark.svg" height="30"/>
+<img width="4" />
+<img src="icons/Markdown-dark.svg" height="30"/>
+<img width="4" />
+<img src="icons/LaTeX-Dark.svg" height="30"/>
 </div>
 
 <!-- tools list -->
@@ -183,22 +173,22 @@ Permission denied: Missing dependency — life partner not found
 ###
 
 <div align="center">
-  <img src="badges/linux.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/windows.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/git.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/github.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/github-actions.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/vs-code.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/microsoft-azure.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/google-cloud.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/vercel.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/photoshop.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/illustrator.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/premierepro.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/xd.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/msword.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/mspowerpoint.svg" style="height:20px; vertical-align:middle;"/>
-<img src="badges/msexcel.svg" style="height:20px; vertical-align:middle;"/>
+<img src="badges/linux.svg" height="20"/>
+<img src="badges/windows.svg" height="20"/>
+<img src="badges/git.svg" height="20"/>
+<img src="badges/github.svg" height="20"/>
+<img src="badges/github-actions.svg" height="20"/>
+<img src="badges/vs-code.svg" height="20"/>
+<img src="badges/microsoft-azure.svg" height="20"/>
+<img src="badges/google-cloud.svg" height="20"/>
+<img src="badges/vercel.svg" height="20"/>
+<img src="badges/photoshop.svg" height="20"/>
+<img src="badges/illustrator.svg" height="20"/>
+<img src="badges/premierepro.svg" height="20"/>
+<img src="badges/xd.svg" height="20"/>
+<img src="badges/msword.svg" height="20"/>
+<img src="badges/mspowerpoint.svg" height="20"/>
+<img src="badges/msexcel.svg" height="20"/>
 </div>
 
 ###
