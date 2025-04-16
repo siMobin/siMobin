@@ -73,6 +73,7 @@ waiting for her appearance
 $ cat contact.me
 Email: shakibulislammobin@gmail.com
 WhatsApp: +8801746-301800
+Discord: shakibulislammobin
 ```
 
 <details>
@@ -161,7 +162,7 @@ Permission denied: Missing dependency — life partner not found
 <img width="4" />
 <img src="icons/MySQL-Dark.svg" height="30"/>
 <img width="4" />
-<img src="icons/Markdown-dark.svg" height="30"/>
+<img src="icons/Markdown-Dark.svg" height="30"/>
 <img width="4" />
 <img src="icons/LaTeX-Dark.svg" height="30"/>
 </div>
@@ -178,6 +179,7 @@ Permission denied: Missing dependency — life partner not found
 <img src="badges/git.svg" height="20"/>
 <img src="badges/github.svg" height="20"/>
 <img src="badges/github-actions.svg" height="20"/>
+<img src="badges/docker.svg" height="20"/>
 <img src="badges/vs-code.svg" height="20"/>
 <img src="badges/microsoft-azure.svg" height="20"/>
 <img src="badges/google-cloud.svg" height="20"/>
