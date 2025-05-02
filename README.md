@@ -60,7 +60,7 @@
 <!-- trophy -->
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=?&no-bg=true&no-frame=true" alt="simobin" /></p>
 
-<img alt="siMobin" align="right" width="400" src="./gif.webp">
+<img alt="siMobin" align="right" width="415" src="./gif.webp">
 
 ```console
 $ whoami
@@ -127,7 +127,7 @@ Permission denied: Missing dependency — life partner not found
 </details>
 
 <hr>
-
+<!-- cSpell:disable -->
 <!-- tools -->
 <!-- icon -->
 <h3 align="center">Languages, Frameworks & Tools:</h3>
@@ -150,9 +150,13 @@ Permission denied: Missing dependency — life partner not found
 <img width="4" />
 <img src="icons/TailwindCSS-Dark.svg" height="30"/>
 <img width="4" />
+<img src="icons/Flux-Dark.svg" height="30"/>
+<img width="4" />
 <img src="icons/PHP-Dark.svg" height="30"/>
 <img width="4" />
 <img src="icons/Laravel-Dark.svg" height="30"/>
+<img width="4" />
+<img src="icons/Livewire.svg" height="30"/>
 <img width="4" />
 <img src="icons/Python-Dark.svg" height="30"/>
 <img width="4" />
