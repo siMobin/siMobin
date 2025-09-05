@@ -1,0 +1,4 @@
+local
+*.tex
+*.cls
+public/CV/*.jpg

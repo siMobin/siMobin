@@ -1,8 +1,8 @@
-![siMobin mobin shakibul-islam-mobin github simobin](./mobin_readme_banner-min.svg)
+![siMobin](./local/mobin_readme_banner-min.svg)
 
 <!-- <h1 align="center">Shakibul Islam Mobin</h1> -->
-<img src="./animated-flame-01.gif" width="16px" align="left"/>
-<img src="./animated-flame-01.gif" width="16px" align="right"/>
+<img src="./local/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./local/animated-flame-01.gif" width="16px" align="right"/>
 <!-- <h3 align="center">A passionate full stack developer from BD</h3> -->
 <h3 align="center">
         <samp>A passionate
@@ -31,7 +31,7 @@
 
 ###
 
-<img  src="./Quest_mates Await Join the Adventure!.svg" height="12px"/>
+<img  src="./local/Quest_mates Await Join the Adventure!.svg" height="12px"/>
 
 ###
 
@@ -60,7 +60,7 @@
 <!-- trophy -->
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=simobin&theme=tokyonight&row=1&column=?&no-bg=true&no-frame=true" alt="simobin" /></p>
 
-<img alt="siMobin" align="right" width="415" src="./gif.webp">
+<img alt="siMobin" align="right" width="415" src="./local/gif.webp" alt="siMobin">
 
 ```console
 $ whoami
@@ -134,41 +134,41 @@ Permission denied: Missing dependency — life partner not found
 <br>
 
 <div align="center">
-<img src="icons/C.svg" height="30"/>
+<img src="local/icons/C.svg" height="30"/>
 <img width="4" />
-<img src="icons/CPP.svg" height="30"/>
+<img src="local/icons/CPP.svg" height="30"/>
 <img width="4" />
-<img src="icons/Java-Dark.svg" height="30"/>
+<img src="local/icons/Java-Dark.svg" height="30"/>
 <img width="4" />
-<img src="icons/JavaScript.svg" height="30"/>
+<img src="local/icons/JavaScript.svg" height="30"/>
 <img width="4" />
-<img src="icons/HTML.svg" height="30"/>
+<img src="local/icons/HTML.svg" height="30"/>
 <img width="4" />
-<img src="icons/CSS.svg" height="30"/>
+<img src="local/icons/CSS.svg" height="30"/>
 <img width="4" />
-<img src="icons/Sass.svg" height="30"/>
+<img src="local/icons/Sass.svg" height="30"/>
 <img width="4" />
-<img src="icons/TailwindCSS-Dark.svg" height="30"/>
+<img src="local/icons/TailwindCSS-Dark.svg" height="30"/>
 <img width="4" />
-<img src="icons/Flux-Dark.svg" height="30"/>
+<img src="local/icons/NextJS-Dark.svg" height="30"/>
 <img width="4" />
-<img src="icons/PHP-Dark.svg" height="30"/>
+<img src="local/icons/PHP-Dark.svg" height="30"/>
 <img width="4" />
-<img src="icons/Laravel-Dark.svg" height="30"/>
+<img src="local/icons/Laravel-Dark.svg" height="30"/>
 <img width="4" />
-<img src="icons/Livewire.svg" height="30"/>
+<img src="local/icons/Livewire.svg" height="30"/>
 <img width="4" />
-<img src="icons/Python-Dark.svg" height="30"/>
+<img src="local/icons/Python-Dark.svg" height="30"/>
 <img width="4" />
-<img src="icons/Flask-Dark.svg" height="30"/>
+<img src="local/icons/Flask-Dark.svg" height="30"/>
 <img width="4" />
-<img src="icons/Microsoft-SQL.svg" height="30"/>
+<img src="local/icons/Microsoft-SQL.svg" height="30"/>
 <img width="4" />
-<img src="icons/MySQL-Dark.svg" height="30"/>
+<img src="local/icons/MySQL-Dark.svg" height="30"/>
 <img width="4" />
-<img src="icons/Markdown-Dark.svg" height="30"/>
+<img src="local/icons/Markdown-Dark.svg" height="30"/>
 <img width="4" />
-<img src="icons/LaTeX-Dark.svg" height="30"/>
+<img src="local/icons/LaTeX-Dark.svg" height="30"/>
 </div>
 
 <!-- tools list -->
@@ -178,23 +178,23 @@ Permission denied: Missing dependency — life partner not found
 ###
 
 <div align="center">
-<img src="badges/linux.svg" height="20"/>
-<img src="badges/windows.svg" height="20"/>
-<img src="badges/git.svg" height="20"/>
-<img src="badges/github.svg" height="20"/>
-<img src="badges/github-actions.svg" height="20"/>
-<img src="badges/docker.svg" height="20"/>
-<img src="badges/vs-code.svg" height="20"/>
-<img src="badges/microsoft-azure.svg" height="20"/>
-<img src="badges/google-cloud.svg" height="20"/>
-<img src="badges/vercel.svg" height="20"/>
-<img src="badges/photoshop.svg" height="20"/>
-<img src="badges/illustrator.svg" height="20"/>
-<img src="badges/premierepro.svg" height="20"/>
-<img src="badges/xd.svg" height="20"/>
-<img src="badges/msword.svg" height="20"/>
-<img src="badges/mspowerpoint.svg" height="20"/>
-<img src="badges/msexcel.svg" height="20"/>
+<img src="local/badges/linux.svg" height="20"/>
+<img src="local/badges/windows.svg" height="20"/>
+<img src="local/badges/git.svg" height="20"/>
+<img src="local/badges/github.svg" height="20"/>
+<img src="local/badges/github-actions.svg" height="20"/>
+<img src="local/badges/docker.svg" height="20"/>
+<img src="local/badges/vs-code.svg" height="20"/>
+<img src="local/badges/microsoft-azure.svg" height="20"/>
+<img src="local/badges/google-cloud.svg" height="20"/>
+<img src="local/badges/vercel.svg" height="20"/>
+<img src="local/badges/photoshop.svg" height="20"/>
+<img src="local/badges/illustrator.svg" height="20"/>
+<img src="local/badges/premierepro.svg" height="20"/>
+<img src="local/badges/xd.svg" height="20"/>
+<img src="local/badges/msword.svg" height="20"/>
+<img src="local/badges/mspowerpoint.svg" height="20"/>
+<img src="local/badges/msexcel.svg" height="20"/>
 </div>
 
 ###
@@ -211,8 +211,8 @@ Permission denied: Missing dependency — life partner not found
 </div>
 
 <div align="center">
-<img src="./animated-flame-01.gif" width="16px" align="left"/>
-<img src="./animated-flame-01.gif" width="16px" align="right"/>
+<img src="./local/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./local/animated-flame-01.gif" width="16px" align="right"/>
 </div>
 
 <!-- cSpell:enable -->

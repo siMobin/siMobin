@@ -1,0 +1,145 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0a0a0a;
+  /* Dark background */
+  --foreground: #ededed;
+  /** 
+   */
+
+}
+
+@theme {
+  --color-blue: #00c6ff;
+  --color-accent: #00c6ff;
+
+
+  /** 
+    */
+  /* Light foreground text */
+  --hero-gradient-start: #007bff;
+  /* Blue for gradients */
+  --hero-gradient-end: #8a2be2;
+  /* Purple for gradients */
+  --hero-text-gradient-start: var(--color-blue);
+  /* Lighter blue for text gradient */
+  --hero-text-gradient-end: #8a2be2;
+  /* Purple for text gradient */
+  --code-background: #1e1e1e;
+  /* Dark background for code block */
+  --code-border: #00c6ff;
+  /* Cyan border for code block */
+  --code-keyword: #569cd6;
+  /* Blue for keywords */
+  --code-string: #ce9178;
+  /* Orange for strings */
+  --code-function: #dcdcaa;
+  /* Yellow for function names */
+  /* --accent-color: #00c6ff; */
+  /* Accent color for borders/highlights */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  /* color: var(--foreground); */
+  font-family: Arial, Helvetica, sans-serif;
+
+  a {
+    @apply text-foreground hover:text-blue transition-colors
+  }
+
+  main {
+    height: 100vh;
+  }
+}
+
+.hero {
+  @apply w-full;
+  background-image: url('/images/hero-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  /* Overlay with semi-transparent color */
+  /* @apply bg-accent/10;
+  background-blend-mode: multiply; */
+
+}
+
+#about {
+  @apply bg-gray-900;
+}
+
+.text-hero-text-gradient {
+  background-image: linear-gradient(to right, var(--hero-text-gradient-start), var(--hero-text-gradient-end));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 8s linear infinite;
+}
+
+.text-code-keyword {
+  color: var(--code-keyword);
+}
+
+.text-code-function {
+  color: var(--code-function);
+}
+
+.text-code-string {
+  color: var(--code-string);
+}
+
+.card {
+  @apply mb-8 p-4 rounded-lg w-full;
+  @apply bg-accent/5 border border-accent/20;
+}
+
+.footer-container {
+  @apply w-full py-4 px-8 flex justify-between items-center text-sm;
+  background-color: var(--background);
+  color: var(--foreground);
+  border-top: 1px solid var(--accent);
+  margin-top: auto;
+  /* Pushes the footer to the bottom */
+}
+
+.footer-left,
+.footer-right {
+  @apply flex items-center gap-1;
+}
+
+.name,
+.dollar-sign {
+  color: var(--color-blue);
+}
+
+.code-snippet {
+  font-family: 'Fira Code', 'Cascadia Code', 'Consolas', monospace;
+  color: var(--code-keyword);
+}

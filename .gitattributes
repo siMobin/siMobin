@@ -3,7 +3,7 @@
 *.md linguist-documentation=false
 
 # JSON
-*.json linguist-detectable=true
+*.json linguist-detectable=false
 
 # YAML
 *.yml linguist-detectable=true
