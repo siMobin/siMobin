@@ -1,5 +1,6 @@
 "use client";
 
+import { ArrowRight } from "lucide-react";
 import React, { useEffect, useState } from "react";
 
 interface LanguageStat {
@@ -179,6 +180,15 @@ const GitHubLanguageStats: React.FC<GitHubLanguageStatsProps> = ({
           ))}
         </div>
       </div>
+      <span className="flex items-center justify-center mt-8">
+        <a
+          href="/projects"
+          className="flex items-center gap-2 bg-accent/5 px-4 py-2 rounded-full border border-accent/20 hover:bg-accent/10 transition animate-shake-x"
+        >
+          See more
+          <ArrowRight size={20} />
+        </a>
+      </span>
     </section>
   );
 };

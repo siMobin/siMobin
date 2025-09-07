@@ -1,5 +1,13 @@
 "use client";
 
+import {
+  Brain,
+  GitCommitHorizontal,
+  GitFork,
+  GitPullRequest,
+  SquareDashedBottomCode,
+  Star,
+} from "lucide-react";
 import React, { useEffect, useState } from "react";
 
 interface GitHubRepo {
@@ -23,6 +31,8 @@ const GitHubStats: React.FC<GitHubStatsProps> = ({
   const [technologiesCount, setTechnologiesCount] = useState<number>(0);
   const [gitHubStars, setGitHubStars] = useState<number>(0);
   const [totalForks, setTotalForks] = useState<number>(0);
+  const [totalCommits, setTotalCommits] = useState<number>(0);
+  const [totalPullRequests, setTotalPullRequests] = useState<number>(0);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -78,6 +88,37 @@ const GitHubStats: React.FC<GitHubStatsProps> = ({
           0
         );
         setTotalForks(totalForksCount);
+
+        // Fetch total commits
+        const commitsResponse = await fetch(
+          `https://api.github.com/search/commits?q=author:${githubUsername}`,
+          { headers }
+        );
+        if (!commitsResponse.ok) {
+          const errorText = await commitsResponse.text();
+          // It's possible to get a 403 here if the user has a lot of commits, so we'll just log it and continue
+          console.error(
+            `GitHub API error fetching commits: ${commitsResponse.status} - ${errorText}`
+          );
+          setTotalCommits(0); // Set to 0 or some other default
+        } else {
+          const commitsData = await commitsResponse.json();
+          setTotalCommits(commitsData.total_count);
+        }
+
+        // Fetch total pull requests
+        const prsResponse = await fetch(
+          `https://api.github.com/search/issues?q=author:${githubUsername}+type:pr`,
+          { headers }
+        );
+        if (!prsResponse.ok) {
+          const errorText = await prsResponse.text();
+          throw new Error(
+            `GitHub API error fetching PRs: ${prsResponse.status} - ${errorText}`
+          );
+        }
+        const prsData = await prsResponse.json();
+        setTotalPullRequests(prsData.total_count);
       } catch (err: unknown) {
         if (err instanceof Error) {
           setError(err.message);
@@ -95,33 +136,47 @@ const GitHubStats: React.FC<GitHubStatsProps> = ({
   if (loading) {
     return (
       <>
-        <div className="card flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10 ">
-          <div className="text-blue-400 text-5xl mb-4">
-            <i className="fas fa-code"></i>
+        <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+          <div className="text-blue-400 text-5xl">
+            <SquareDashedBottomCode size={32} />
           </div>
           <h3 className="text-4xl font-bold mb-2">...</h3>
           <p className="text-gray-400">Projects</p>
         </div>
-        <div className="card flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10 ">
-          <div className="text-blue-400 text-5xl mb-4">
-            <i className="fas fa-brain"></i>
+        <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+          <div className="text-blue-400 text-5xl">
+            <Brain size={32} />
           </div>
           <h3 className="text-4xl font-bold mb-2">...</h3>
           <p className="text-gray-400">Technologies</p>
         </div>
-        <div className="card flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10 ">
-          <div className="text-blue-400 text-5xl mb-4">
-            <i className="fas fa-heart"></i>
+        <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+          <div className="text-blue-400 text-5xl">
+            <Star size={32} />
           </div>
           <h3 className="text-4xl font-bold mb-2">...</h3>
           <p className="text-gray-400">GitHub Stars</p>
         </div>
-        <div className="card flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10 ">
-          <div className="text-blue-400 text-5xl mb-4">
-            <i className="fas fa-code-branch"></i>
+        <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+          <div className="text-blue-400 text-5xl">
+            <GitFork size={32} />
           </div>
           <h3 className="text-4xl font-bold mb-2">...</h3>
           <p className="text-gray-400">Forks</p>
+        </div>
+        <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+          <div className="text-blue-400 text-5xl">
+            <GitCommitHorizontal size={32} />
+          </div>
+          <h3 className="text-4xl font-bold mb-2">...</h3>
+          <p className="text-gray-400">Contribution</p>
+        </div>
+        <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+          <div className="text-blue-400 text-5xl">
+            <GitPullRequest size={32} />
+          </div>
+          <h3 className="text-4xl font-bold mb-2">...</h3>
+          <p className="text-gray-400">Pull Requests</p>
         </div>
       </>
     );
@@ -133,33 +188,47 @@ const GitHubStats: React.FC<GitHubStatsProps> = ({
 
   return (
     <>
-      <div className="card flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10 ">
-        <div className="text-blue-400 text-5xl mb-4">
-          <i className="fas fa-code"></i>
+      <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+        <div className="text-blue-400 text-5xl">
+          <SquareDashedBottomCode size={32} />
         </div>
         <h3 className="text-4xl font-bold mb-2">{projectsCount}+</h3>
         <p className="text-gray-400">Public Projects</p>
       </div>
-      <div className="card flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10 ">
-        <div className="text-blue-400 text-5xl mb-4">
-          <i className="fas fa-brain"></i>
+      <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+        <div className="text-blue-400 text-5xl">
+          <Brain size={32} />
         </div>
         <h3 className="text-4xl font-bold mb-2">{technologiesCount}+</h3>
         <p className="text-gray-400">Technologies</p>
       </div>
-      <div className="card flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10 ">
-        <div className="text-blue-400 text-5xl mb-4">
-          <i className="fas fa-heart"></i>
+      <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+        <div className="text-blue-400 text-5xl">
+          <Star size={32} />
         </div>
         <h3 className="text-4xl font-bold mb-2">{gitHubStars}+</h3>
         <p className="text-gray-400">GitHub Stars</p>
       </div>
-      <div className="card flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10 ">
-        <div className="text-blue-400 text-5xl mb-4">
-          <i className="fas fa-code-branch"></i>
+      <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+        <div className="text-blue-400 text-5xl">
+          <GitFork size={32} />
         </div>
         <h3 className="text-4xl font-bold mb-2">{totalForks}+</h3>
         <p className="text-gray-400">Forks</p>
+      </div>
+      <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+        <div className="text-blue-400 text-5xl">
+          <GitCommitHorizontal size={32} />
+        </div>
+        <h3 className="text-4xl font-bold mb-2">{totalCommits}+</h3>
+        <p className="text-gray-400">Contribution</p>
+      </div>
+      <div className="card space-y-2 flex flex-col items-center text-center transform transition duration-300 hover:scale-102 hover:!bg-accent/10">
+        <div className="text-blue-400 text-5xl">
+          <GitPullRequest size={32} />
+        </div>
+        <h3 className="text-4xl font-bold mb-2">{totalPullRequests}+</h3>
+        <p className="text-gray-400">Pull Requests</p>
       </div>
     </>
   );

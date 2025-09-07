@@ -99,7 +99,7 @@ const GitHubProjects: React.FC<GitHubProjectsProps> = ({
           {repos.map((repo) => (
             <div
               key={repo.id}
-              className="bg-gray-900/20 border border-accent/10 p-4 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
+              className=" fade bg-gray-900/20 border border-accent/10 p-4 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300"
             >
               <div className="flex items-center justify-between mb-4">
                 <div className="mb-2 text-white flex items-center gap-2">

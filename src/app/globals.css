@@ -29,14 +29,28 @@
   /* Dark background for code block */
   --code-border: #00c6ff;
   /* Cyan border for code block */
-  --code-keyword: #569cd6;
+  --color-keyword: #569cd6;
   /* Blue for keywords */
-  --code-string: #ce9178;
+  --color-string: #ce9178;
   /* Orange for strings */
-  --code-function: #dcdcaa;
+  --color-function: #dcdcaa;
+
   /* Yellow for function names */
   /* --accent-color: #00c6ff; */
   /* Accent color for borders/highlights */
+  --animate-shake-x: shakeX 1.0s ease-in-out infinite;
+
+  @keyframes shakeX {
+
+    0%,
+    100% {
+      transform: translateX(0);
+    }
+
+    50% {
+      transform: translateX(-5px);
+    }
+  }
 }
 
 @theme inline {
@@ -67,6 +81,30 @@ body {
   }
 }
 
+nav {
+  ul {
+    @apply flex space-x-4 font-mono uppercase;
+
+    a {
+      position: relative;
+      @apply text-function;
+
+      &::before,
+      &::after {
+        @apply text-keyword px-1;
+      }
+
+      &::before {
+        content: "{";
+      }
+
+      &::after {
+        content: "}";
+      }
+    }
+  }
+}
+
 .hero {
   @apply w-full;
   background-image: url('/images/hero-bg.jpg');
@@ -77,6 +115,26 @@ body {
   /* @apply bg-accent/10;
   background-blend-mode: multiply; */
 
+  .profile-pic-container {
+    @apply shadow-[0px_0px_100px_20px] shadow-blue/40;
+
+  }
+
+  .profile-pic-wrapper {
+    @apply shadow-[0px_0px_10px_5px] shadow-emerald-600/20;
+  }
+
+}
+
+.down-arrow {
+  &::before {
+    @apply size-12 bg-accent rounded-full;
+    content: "";
+    position: absolute;
+    inset: 25%;
+    filter: blur(50px);
+    animation: var(--animate-shake-x);
+  }
 }
 
 #about {
@@ -103,20 +161,8 @@ body {
   animation: spin-slow 8s linear infinite;
 }
 
-.text-code-keyword {
-  color: var(--code-keyword);
-}
-
-.text-code-function {
-  color: var(--code-function);
-}
-
-.text-code-string {
-  color: var(--code-string);
-}
-
 .card {
-  @apply mb-8 p-4 rounded-lg w-full;
+  @apply p-4 rounded-lg w-full;
   @apply bg-accent/5 border border-accent/20;
 }
 
@@ -139,7 +185,66 @@ body {
   color: var(--color-blue);
 }
 
-.code-snippet {
+/* .code-snippet,
+code,
+pre {
   font-family: 'Fira Code', 'Cascadia Code', 'Consolas', monospace;
-  color: var(--code-keyword);
+  color: var(--color-keyword);
+} */
+
+.contact {
+  position: relative;
+  width: max-content;
+  height: max-content;
+
+  &::before {
+    content: '';
+    position: absolute;
+    @apply bg-accent size-6 animate-ping;
+    filter: blur(25px);
+    /* animation: var(--animate-shake-x); */
+  }
+}
+
+
+
+.fade {
+  animation: fade;
+  animation-timeline: view();
+}
+
+@keyframes fade {
+
+  from {
+    opacity: 0;
+  }
+
+  90% {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 1;
+  }
+
+}
+
+
+.blur {
+
+  animation: blur;
+  animation-timeline: view(15% 0vh);
+  /* animation-range: entry 0% cover 150vh; */
+
+}
+
+@keyframes blur {
+
+  from {
+    filter: blur(5px);
+  }
+
+  to {
+    filter: blur(0px);
+  }
 }

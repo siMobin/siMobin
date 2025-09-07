@@ -10,10 +10,14 @@ const Footer: React.FC = () => {
         <span className="name">siMobin</span>
       </div>
       <div className="footer-right">
-        <span className="dollar-sign">$ </span>
-        <span className="code-snippet">
-          while(true) {"{"} code(); coffee(); sleep(); {"}"};
-        </span>
+        {/* <span className="dollar-sign">$ </span> */}
+        <code className="">
+          <pre className="text-keyword">while(true){"{"}</pre>
+          <pre className="text-function">
+            &nbsp;&nbsp;&nbsp;code(); eat(); sleep();
+          </pre>
+          <pre className="text-keyword">{"};"}</pre>
+        </code>
       </div>
     </footer>
   );

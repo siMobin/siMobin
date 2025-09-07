@@ -49,7 +49,7 @@ const AboutMe: React.FC = () => {
             </div>
           </div>
 
-          <div className="lg:w-1/2 grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div className="lg:w-1/2 grid grid-cols-1 md:grid-cols-2 gap-4">
             <GitHubStats
               githubUsername={
                 process.env.NEXT_PUBLIC_GITHUB_USERNAME || "siMobin"
