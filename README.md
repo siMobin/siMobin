@@ -134,41 +134,41 @@ Permission denied: Missing dependency — life partner not found
 <br>
 
 <div align="center">
-<img src="local/icons/C.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/CPP.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/Java-Dark.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/JavaScript.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/HTML.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/CSS.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/Sass.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/TailwindCSS-Dark.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/NextJS-Dark.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/PHP-Dark.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/Laravel-Dark.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/Livewire.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/Python-Dark.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/Flask-Dark.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/Microsoft-SQL.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/MySQL-Dark.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/Markdown-Dark.svg" height="30"/>
-<img width="4" />
-<img src="local/icons/LaTeX-Dark.svg" height="30"/>
+<img loading="lazy" src="local/icons/C.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/CPP.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loaidng="lazy" src="local/icons/Java-Dark.svg" height="30"/>
+<img loaidng="lazy" width="4" />
+<img loaidng="lazy" src="local/icons/JavaScript.svg" height="30"/>
+<img loaidng="lazy" width="4" />
+<img loading="lazy" src="local/icons/HTML.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/CSS.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/Sass.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/TailwindCSS-Dark.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/NextJS-Dark.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/PHP-Dark.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/Laravel-Dark.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/Livewire.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/Python-Dark.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/Flask-Dark.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/Microsoft-SQL.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/MySQL-Dark.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/Markdown-Dark.svg" height="30"/>
+<img loading="lazy" width="4" />
+<img loading="lazy" src="local/icons/LaTeX-Dark.svg" height="30"/>
 </div>
 
 <!-- tools list -->
@@ -178,23 +178,23 @@ Permission denied: Missing dependency — life partner not found
 ###
 
 <div align="center">
-<img src="local/badges/linux.svg" height="20"/>
-<img src="local/badges/windows.svg" height="20"/>
-<img src="local/badges/git.svg" height="20"/>
-<img src="local/badges/github.svg" height="20"/>
-<img src="local/badges/github-actions.svg" height="20"/>
-<img src="local/badges/docker.svg" height="20"/>
-<img src="local/badges/vs-code.svg" height="20"/>
-<img src="local/badges/microsoft-azure.svg" height="20"/>
-<img src="local/badges/google-cloud.svg" height="20"/>
-<img src="local/badges/vercel.svg" height="20"/>
-<img src="local/badges/photoshop.svg" height="20"/>
-<img src="local/badges/illustrator.svg" height="20"/>
-<img src="local/badges/premierepro.svg" height="20"/>
-<img src="local/badges/xd.svg" height="20"/>
-<img src="local/badges/msword.svg" height="20"/>
-<img src="local/badges/mspowerpoint.svg" height="20"/>
-<img src="local/badges/msexcel.svg" height="20"/>
+<img loading="lazy" src="local/badges/linux.svg" height="20"/>
+<img loading="lazy" src="local/badges/windows.svg" height="20"/>
+<img loading="lazy" src="local/badges/git.svg" height="20"/>
+<img loading="lazy" src="local/badges/github.svg" height="20"/>
+<img loading="lazy" src="local/badges/github-actions.svg" height="20"/>
+<img loading="lazy" src="local/badges/docker.svg" height="20"/>
+<img loading="lazy" src="local/badges/vs-code.svg" height="20"/>
+<img loading="lazy" src="local/badges/microsoft-azure.svg" height="20"/>
+<img loading="lazy" src="local/badges/google-cloud.svg" height="20"/>
+<img loading="lazy" src="local/badges/vercel.svg" height="20"/>
+<img loading="lazy" src="local/badges/photoshop.svg" height="20"/>
+<img loading="lazy" src="local/badges/illustrator.svg" height="20"/>
+<img loading="lazy" src="local/badges/premierepro.svg" height="20"/>
+<img loading="lazy" src="local/badges/xd.svg" height="20"/>
+<img loading="lazy" src="local/badges/msword.svg" height="20"/>
+<img loading="lazy" src="local/badges/mspowerpoint.svg" height="20"/>
+<img loading="lazy" src="local/badges/msexcel.svg" height="20"/>
 </div>
 
 ###
@@ -204,9 +204,12 @@ Permission denied: Missing dependency — life partner not found
 <!-- charts -->
 
 <div align="center">
-  <img style="width:55%;" align="left" src="https://github-stats-theta-one.vercel.app/api?username=simobin&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=siMobin's%20stats&rank_icon=percentile&show_icons=true&icon_color=428EEE&ring_color=428EEE&show_owner=true&show=reviews,prs_merged_percentage" alt="shakibul islam mobin" />
-  <img style="width:40%;" align="right" src="https://github-stats-theta-one.vercel.app/api/top-langs?username=siMobin&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000" alt="languages graph"/>
-  <img style="width:70%;" align="center" src="https://github-readme-streak-stats-ff-ten.vercel.app?user=siMobin&theme=transparent&hide_border=true&fire=red&ring=ff9a00&short_numbers=true&stroke=EBEBEB10" alt="siMobin's streak graph"/>
+  <img style="width:55%;" align="left" src="https://simobin-s-github-readme-stats.vercel.app/api?username=simobin&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=siMobin's%20stats&rank_icon=percentile&show_icons=true&icon_color=428EEE&ring_color=428EEE&show_owner=true&show=reviews,prs_merged_percentage" alt="shakibul islam mobin" />
+  <img style="width:40%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/top-langs?username=siMobin&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Stamford-University-Bangladesh" alt="languages graph"/>
+
+  <img style="width:50%;" align="left" src="https://github-readme-streak-stats-ff-ten.vercel.app?user=siMobin&theme=transparent&hide_border=true&fire=red&ring=ff9a00&short_numbers=true&stroke=EBEBEB10" alt="siMobin's streak graph"/>
+  <img style="width:40%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/wakatime?username=siMobin&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&display_format=percent" alt="siMobin's streak graph"/>
+
   <img style="width:100%;" align="center" src="https://github-readme-activity-graph-rose-two.vercel.app/graph?username=siMobin&custom_title=%20&bg_color=00000000&color=2f81f7&line=008080&point=428EEE&area_color=2f81f7&title_color=428EEE&area=true&days=45&radius=16&hide_border=true" alt="siMobin">
 </div>
 

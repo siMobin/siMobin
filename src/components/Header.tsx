@@ -14,10 +14,10 @@ const Header: React.FC = () => {
         <nav>
           <ul className="">
             <Link href="/">Home</Link>
-            <a href="#about">About</a>
-            <a href="#skills">Skills</a>
-            <a href="/projects">Projects</a>
-            <a href="#contact">Contact</a>
+            <Link href="/#about">About</Link>
+            <Link href="#skills">Skills</Link>
+            <Link href="/projects">Projects</Link>
+            <Link href="/#contact">Contact</Link>
           </ul>
         </nav>
         <div className="flex space-x-4">
