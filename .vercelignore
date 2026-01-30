@@ -2,3 +2,9 @@ local
 *.tex
 *.cls
 public/CV/*.jpg
+
+.gitignore
+.gitattributes
+.github
+README.md
+LICENSE
