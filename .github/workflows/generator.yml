@@ -1,0 +1,58 @@
+name: Update WakaTime Stats SVG
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 12 * * *" # every Friday at 12:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate all SVGs from Vercel API
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p wakatime
+
+          BASE="https://wakatime-stats-psi.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=dark_github_transparent&components=1"
+
+          # Generate individual SVGs for each component type
+          for type in rank basic heatmap weekly weekly_avg weekly_langs weekly_projs all_langs all_projs spedometer ai_coding ai_agent personal_info; do
+            echo "Generating wakatime/${type}.svg"
+            curl -fsSL "${BASE}&component1_type=${type}" -o "wakatime/${type}.svg"
+          done
+
+      - name: Bump README cache-busters (daily)
+        run: |
+          set -euo pipefail
+
+          V="$(date -u +%Y%m%d)"  # changes once per day
+
+          # Update cache-buster for all wakatime SVG references in README
+          sed -i -E "s#(wakatime/[a-z_]+\.svg)\?v=[0-9]+#\1?v=$V#g" README.md
+          sed -i -E "s#(wakatime/[a-z_]+\.svg)(\"|')#\1?v=$V\2#g" README.md
+
+      - name: Commit changes to repo
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add wakatime/ README.md
+          git diff --cached --quiet && echo "No changes" && exit 0
+
+          git commit -m "Update WakaTime stats SVGs (cache-bust v=$(date -u +%Y%m%d))"
+          git push
