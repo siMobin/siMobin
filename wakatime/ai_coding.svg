@@ -5,8 +5,8 @@
     y="1"
     width="398"
     height="339"
-    fill="#00000000"
-    stroke="#00000000"
+    fill="none"
+    stroke="none"
     stroke-width="2"
     rx="10"
     ry="10"
@@ -15,7 +15,7 @@
   <g transform="translate(0, 10) scale(1)">
       <text x="200" y="28" text-anchor="middle" fill="#c9d1d9" font-size="16" font-weight="bold" font-family="Calibri">AI Coding (3.1% AI-driven)</text>
   
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#1f1f1f" stroke-width="26" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#00418b" stroke-width="26" />
     <circle cx="200" cy="105" r="55" fill="none" stroke="#58a6ff" stroke-width="26"
       stroke-dasharray="10.662003716492448 345.57519189487726"
       stroke-dashoffset="86.39379797371932"

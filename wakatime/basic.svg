@@ -5,8 +5,8 @@
     y="1"
     width="588"
     height="316"
-    fill="#00000000"
-    stroke="#00000000"
+    fill="none"
+    stroke="none"
     stroke-width="2"
     rx="10"
     ry="10"
@@ -15,7 +15,7 @@
   <g transform="translate(0, 10) scale(1)">
       <g transform="translate(0, 287.29999999999995)">
 <text font-family="Calibri" x="20" y="-265.2" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Stars:</tspan> 52</text>
-<text font-family="Calibri" x="20" y="-243.09999999999997" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Commits:</tspan> 38</text>
+<text font-family="Calibri" x="20" y="-243.09999999999997" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Commits:</tspan> 40</text>
 <text font-family="Calibri" x="20" y="-220.99999999999997" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total PRs:</tspan> 0</text>
 <text font-family="Calibri" x="20" y="-198.89999999999998" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Issues:</tspan> 4</text>
 <text font-family="Calibri" x="20" y="-176.79999999999998" fill="#c9d1d9" font-size="13"><tspan font-weight="bold">Total Reviews:</tspan> 13</text>
