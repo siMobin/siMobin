@@ -212,7 +212,7 @@ Permission denied: Missing dependency — life partner not found
   <img style="width:40%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/top-langs?username=siMobin&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Stamford-University-Bangladesh" alt="languages graph"/>
 
   <img style="width:80%;" align="center" src="https://github-readme-streak-stats-ff-ten.vercel.app?user=siMobin&theme=transparent&hide_border=true&fire=red&ring=ff9a00&short_numbers=true&stroke=EBEBEB10" alt="siMobin's streak graph"/>
-  <img style="width:50%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/wakatime?username=siMobin&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&display_format=percent" alt="siMobin's streak graph"/>
+  <img style="width:55%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/wakatime?username=siMobin&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&display_format=percent" alt="siMobin's streak graph"/>
 
 <!-- <div align="center"> -->
 <!-- <img src="./wakatime/personal_info.svg?v=20260710" style="width:30%;"/>

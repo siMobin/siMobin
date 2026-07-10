@@ -27,7 +27,7 @@ jobs:
           set -euo pipefail
           mkdir -p wakatime
 
-          BASE="https://wakatime-stats-psi.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=dark_github_transparent&components=1"
+          BASE="https://wakatime-stats-psi.vercel.app/api/wakatimeStats?username=$GITHUB_ACTOR&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=tokyo_night_transparent&components=1"
 
           # Generate individual SVGs for each component type
           for type in rank basic heatmap weekly weekly_avg weekly_langs weekly_projs all_langs all_projs spedometer ai_coding ai_agent personal_info; do
