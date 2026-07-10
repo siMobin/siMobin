@@ -13,17 +13,17 @@
   />
   
   <g transform="translate(0, 10) scale(1)">
-      <text x="200" y="30" text-anchor="middle" fill="#58a6ff" font-size="16" font-weight="bold" font-family="Calibri">Coding History</text>
+      <text x="200" y="30" text-anchor="middle" fill="#006aff" font-size="16" font-weight="bold" font-family="Calibri">Coding History</text>
   
-    <circle cx="200" cy="110" r="55" fill="none" stroke="#58a6ff" stroke-width="4" />
-    <text x="200" y="105" text-anchor="middle" fill="#c9d1d9" font-size="34" font-weight="bold" font-family="Calibri">566<tspan font-size="14" font-weight="normal"> hr</tspan></text>
-    <text x="200" y="134" text-anchor="middle" fill="#c9d1d9" font-size="17" font-weight="bold" font-family="Calibri">36<tspan font-size="8" font-weight="normal"> min</tspan></text>
-  <text x="200" y="190" text-anchor="middle" fill="#c9d1d9" font-size="13" font-family="Calibri">
+    <circle cx="200" cy="110" r="55" fill="none" stroke="#006aff" stroke-width="4" />
+    <text x="200" y="105" text-anchor="middle" fill="#37b7a8" font-size="34" font-weight="bold" font-family="Calibri">566<tspan font-size="14" font-weight="normal"> hr</tspan></text>
+    <text x="200" y="134" text-anchor="middle" fill="#37b7a8" font-size="17" font-weight="bold" font-family="Calibri">36<tspan font-size="8" font-weight="normal"> min</tspan></text>
+  <text x="200" y="190" text-anchor="middle" fill="#37b7a8" font-size="13" font-family="Calibri">
     <tspan font-weight="bold">Daily Average:</tspan> 3 hrs 3 mins
   </text>
-  <text x="200" y="213" text-anchor="middle" fill="#c9d1d9" font-size="13" font-family="Calibri">
+  <text x="200" y="213" text-anchor="middle" fill="#37b7a8" font-size="13" font-family="Calibri">
     <tspan font-weight="bold">Most Active:</tspan> Fri Nov 7th, 2025
   </text>
-  <text x="200" y="236" text-anchor="middle" fill="#c9d1d9" font-size="12" font-family="Calibri">(9 hrs 14 mins)</text>
+  <text x="200" y="236" text-anchor="middle" fill="#37b7a8" font-size="12" font-family="Calibri">(9 hrs 14 mins)</text>
     </g>
 </svg>
