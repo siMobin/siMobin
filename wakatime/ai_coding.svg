@@ -1,0 +1,38 @@
+
+<svg width="400" height="341" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+  <rect
+    x="1"
+    y="1"
+    width="398"
+    height="339"
+    fill="#00000000"
+    stroke="#00000000"
+    stroke-width="2"
+    rx="10"
+    ry="10"
+  />
+  
+  <g transform="translate(0, 10) scale(1)">
+      <text x="200" y="28" text-anchor="middle" fill="#c9d1d9" font-size="16" font-weight="bold" font-family="Calibri">AI Coding (3.1% AI-driven)</text>
+  
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#1f1f1f" stroke-width="26" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#58a6ff" stroke-width="26"
+      stroke-dasharray="10.662003716492448 345.57519189487726"
+      stroke-dashoffset="86.39379797371932"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <text x="200" y="99" text-anchor="middle" fill="#c9d1d9" font-size="24" font-weight="bold" font-family="Calibri">
+      3.1%
+    </text>
+    <text x="200" y="117" text-anchor="middle" fill="#c9d1d9" font-size="11" font-family="Calibri">
+      AI-driven
+    </text>
+  <text x="25" y="200" fill="#c9d1d9" font-size="13" font-family="Calibri"><tspan font-weight="bold">AI Lines:</tspan> +8.4K / -603</text>
+<text x="210" y="200" fill="#c9d1d9" font-size="13" font-family="Calibri"><tspan font-weight="bold">Cost:</tspan> $50.85</text>
+<text x="25" y="224" fill="#c9d1d9" font-size="13" font-family="Calibri"><tspan font-weight="bold">Human Lines:</tspan> +171.7K / -111.0K</text>
+<text x="210" y="224" fill="#c9d1d9" font-size="13" font-family="Calibri"><tspan font-weight="bold">Human Review:</tspan> 51 sessions</text>
+<text x="25" y="248" fill="#c9d1d9" font-size="13" font-family="Calibri"><tspan font-weight="bold">Tokens In:</tspan> 26.5M</text>
+<text x="210" y="248" fill="#c9d1d9" font-size="13" font-family="Calibri"><tspan font-weight="bold">Human Follow-up:</tspan> 284 edits</text>
+<text x="25" y="272" fill="#c9d1d9" font-size="13" font-family="Calibri"><tspan font-weight="bold">Tokens Out:</tspan> 290.4K</text>
+    </g>
+</svg>

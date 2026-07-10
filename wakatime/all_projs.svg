@@ -1,0 +1,49 @@
+
+<svg width="608" height="346.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+  <rect
+    x="1"
+    y="1"
+    width="606"
+    height="344.5"
+    fill="#00000000"
+    stroke="#00000000"
+    stroke-width="2"
+    rx="10"
+    ry="10"
+  />
+  
+  <g transform="translate(0, 10) scale(1)">
+      <text font-family="Calibri" x="300" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code for yfbd</text>
+      <text font-family="Calibri" x="122" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">yfbd</text>
+<rect x="130" y="46.5" width="400" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="536" y="55.5" font-size="9" fill="#c9d1d9">148:43    |    28.8%</text>
+<text font-family="Calibri" x="122" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">HelpTheChildrenFoun…</text>
+<rect x="130" y="70.5" width="318.9590383765296" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="454.9590383765296" y="79.5" font-size="9" fill="#c9d1d9">118:35    |    23.0%</text>
+<text font-family="Calibri" x="122" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Invntory</text>
+<rect x="130" y="94.5" width="232.70032538483943" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="368.7003253848394" y="103.5" font-size="9" fill="#c9d1d9">86:30    |    16.8%</text>
+<text font-family="Calibri" x="122" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">g-max</text>
+<rect x="130" y="118.5" width="97.25726058919525" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="233.25726058919525" y="127.5" font-size="9" fill="#c9d1d9">36:09    |    7.0%</text>
+<text font-family="Calibri" x="122" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">yfbd-hrm</text>
+<rect x="130" y="142.5" width="88.51472893983136" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="224.51472893983134" y="151.5" font-size="9" fill="#c9d1d9">32:54    |    6.4%</text>
+<text font-family="Calibri" x="122" y="175.5" font-size="10" text-anchor="end" fill="#c9d1d9">youthnewsbd</text>
+<rect x="130" y="166.5" width="72.56272586716157" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="208.5627258671616" y="175.5" font-size="9" fill="#c9d1d9">26:58    |    5.2%</text>
+<text font-family="Calibri" x="122" y="199.5" font-size="10" text-anchor="end" fill="#c9d1d9">flickerengineering</text>
+<rect x="130" y="190.5" width="51.38816589697258" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="187.38816589697257" y="199.5" font-size="9" fill="#c9d1d9">19:06    |    3.7%</text>
+<text font-family="Calibri" x="122" y="223.5" font-size="10" text-anchor="end" fill="#c9d1d9">point-of-sales</text>
+<rect x="130" y="214.5" width="48.04851504587166" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="184.04851504587165" y="223.5" font-size="9" fill="#c9d1d9">17:51    |    3.5%</text>
+<text font-family="Calibri" x="122" y="247.5" font-size="10" text-anchor="end" fill="#c9d1d9">HelpTheChildrenFoun…</text>
+<rect x="130" y="238.5" width="45.70534956871047" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="181.70534956871046" y="247.5" font-size="9" fill="#c9d1d9">16:59    |    3.3%</text>
+<text font-family="Calibri" x="122" y="271.5" font-size="10" text-anchor="end" fill="#c9d1d9">vms</text>
+<rect x="130" y="262.5" width="34.087600704864755" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="170.08760070486477" y="271.5" font-size="9" fill="#c9d1d9">12:40    |    2.5%</text>
+      <text font-family="Calibri" x="300" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 566 hrs 36 mins</text>
+    </g>
+</svg>

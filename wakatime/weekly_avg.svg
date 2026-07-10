@@ -1,0 +1,20 @@
+
+<svg width="350" height="70" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+  <rect
+    x="1"
+    y="1"
+    width="348"
+    height="68"
+    fill="#00000000"
+    stroke="#00000000"
+    stroke-width="2"
+    rx="10"
+    ry="10"
+  />
+  
+  <g transform="translate(175, 10) scale(1)">
+      <text x="20" y="20" fill="black" font-size="14">
+              ⚠︎ Error: No weekday average insight data available.
+            </text>
+    </g>
+</svg>
