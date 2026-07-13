@@ -13,140 +13,140 @@
   />
   
   <g transform="translate(0, 10) scale(1)">
-      <text x="212.5" y="22.5" font-size="12" text-anchor="middle" fill="#37b7a8" font-weight="bold">This week, I mostly worked on hatbazar-frontend</text>
+      <text x="212.5" y="22.5" font-size="12" text-anchor="middle" fill="#37b7a8" font-weight="bold">This week, I mostly worked on wakatime-client</text>
       <line x1="70" y1="106.5" x2="371" y2="106.5" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
 <line x1="70" y1="91.5" x2="371" y2="91.5" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
 <line x1="70" y1="76.5" x2="371" y2="76.5" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
-<line x1="70" y1="61.49999999999999" x2="371" y2="61.49999999999999" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
+<line x1="70" y1="61.5" x2="371" y2="61.5" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
 <line x1="70" y1="46.5" x2="371" y2="46.5" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
 <text x="62" y="109.5" font-size="9" text-anchor="end" fill="#37b7a8">00:00</text>
-<text x="62" y="94.5" font-size="9" text-anchor="end" fill="#37b7a8">01:33</text>
-<text x="62" y="79.5" font-size="9" text-anchor="end" fill="#37b7a8">03:07</text>
-<text x="62" y="64.5" font-size="9" text-anchor="end" fill="#37b7a8">04:41</text>
-<text x="62" y="49.5" font-size="9" text-anchor="end" fill="#37b7a8">06:15</text>
+<text x="62" y="94.5" font-size="9" text-anchor="end" fill="#37b7a8">01:09</text>
+<text x="62" y="79.5" font-size="9" text-anchor="end" fill="#37b7a8">02:19</text>
+<text x="62" y="64.5" font-size="9" text-anchor="end" fill="#37b7a8">03:29</text>
+<text x="62" y="49.5" font-size="9" text-anchor="end" fill="#37b7a8">04:39</text>
 <text x="25" y="76.5" font-size="10" fill-opacity="1" text-anchor="middle" transform="rotate(-90, 25, 76.5)" fill="#37b7a8">Time</text>
 
-                <rect x="70" y="46.5" width="30" height="60" fill="#007eff" rx="2" ry="2">
-                <title>hatbazar-frontend: 06:15</title>
-                </rect>
-            
-<text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text>
-
-                <rect x="115" y="81.88006946444516" width="30" height="24.61993053555484" fill="#007eff" rx="2" ry="2">
+                <rect x="70" y="73.4326035500523" width="30" height="33.06739644994769" fill="#003eea" rx="2" ry="2">
                 <title>hatbazar-frontend: 02:33</title>
                 </rect>
             
-<text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text>
-<text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text>
+<text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text>
+<text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text>
 
-                <rect x="205" y="99.85288546582726" width="30" height="6.647114534172745" fill="#003fff" rx="2" ry="2">
+                <rect x="160" y="97.57216118127256" width="30" height="8.927838818727437" fill="#0077ff" rx="2" ry="2">
                 <title>waka-readme-state: 41m</title>
                 </rect>
             
 
-                <rect x="205" y="96.27640229599955" width="30" height="3.5764831698277106" fill="#0f53d2" rx="2" ry="2">
+                <rect x="160" y="92.76853321398539" width="30" height="4.803627967287165" fill="#008adb" rx="2" ry="2">
                 <title>youthnewsbd: 22m</title>
                 </rect>
             
 
-                <rect x="205" y="93.27738224164398" width="30" height="2.999020054355562" fill="#0d7aff" rx="2" ry="2">
+                <rect x="160" y="88.74050458264936" width="30" height="4.028028631336027" fill="#085eff" rx="2" ry="2">
                 <title>portfolio: 18m</title>
                 </rect>
             
 
-                <rect x="205" y="91.96101746026423" width="30" height="1.3163647813797448" fill="#0058e1" rx="2" ry="2">
+                <rect x="160" y="86.9724753822513" width="30" height="1.768029200398057" fill="#007aff" rx="2" ry="2">
                 <title>user: 08m</title>
                 </rect>
             
 
-                <rect x="205" y="91.9370351059476" width="30" height="0.023982354316635028" fill="#1a3dec" rx="2" ry="2">
+                <rect x="160" y="86.94026432394446" width="30" height="0.032211058306847194" fill="#1192ff" rx="2" ry="2">
                 <title>wakatime-stats: 00m</title>
                 </rect>
             
-<text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text>
+<text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text>
 
-                <rect x="250" y="103.43694439491298" width="30" height="3.063055605087013" fill="#003fff" rx="2" ry="2">
+                <rect x="205" y="102.38596426397821" width="30" height="4.114035736021788" fill="#0077ff" rx="2" ry="2">
                 <title>waka-readme-state: 19m</title>
                 </rect>
             
 
-                <rect x="250" y="70.51734990099507" width="30" height="32.91959449391792" fill="#015feb" rx="2" ry="2">
+                <rect x="205" y="58.17116517955965" width="30" height="44.21479908441856" fill="#0089eb" rx="2" ry="2">
                 <title>wakatimeReadmeStats: 03:25</title>
                 </rect>
             
 
-                <rect x="250" y="61.8277248673254" width="30" height="8.689625033669671" fill="#0b86ff" rx="2" ry="2">
+                <rect x="205" y="46.5" width="30" height="11.671165179559651" fill="#0090ff" rx="2" ry="2">
                 <title>siMobin: 54m</title>
                 </rect>
             
-<text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text>
+<text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text>
 
-                <rect x="295" y="105.73256466186768" width="30" height="0.7674353381323209" fill="#0058e1" rx="2" ry="2">
+                <rect x="250" y="105.46924613418089" width="30" height="1.0307538658191102" fill="#007aff" rx="2" ry="2">
                 <title>user: 04m</title>
                 </rect>
             
 
-                <rect x="295" y="87.36379999071795" width="30" height="18.368764671149734" fill="#1a3dec" rx="2" ry="2">
+                <rect x="250" y="80.7978839303146" width="30" height="24.67136220386629" fill="#1192ff" rx="2" ry="2">
                 <title>wakatime-stats: 01:54</title>
                 </rect>
             
 
-                <rect x="295" y="87.31583528208468" width="30" height="0.047964708633270056" fill="#015feb" rx="2" ry="2">
+                <rect x="250" y="80.7334618137009" width="30" height="0.06442211661369439" fill="#0089eb" rx="2" ry="2">
                 <title>wakatimeReadmeStats: 00m</title>
                 </rect>
             
 
-                <rect x="295" y="86.56712216855554" width="30" height="0.7487131135291344" fill="#0d89ff" rx="2" ry="2">
+                <rect x="250" y="79.7278540474" width="30" height="1.005607766300898" fill="#0063ff" rx="2" ry="2">
                 <title>yfbd-hrm: 04m</title>
                 </rect>
             
-<text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text>
+<text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text>
 
-                <rect x="340" y="76.66323855936221" width="30" height="29.836761440637787" fill="#2360d5" rx="2" ry="2">
-                <title>wakatime-client: 03:06</title>
+                <rect x="295" y="51.999633778162085" width="30" height="54.500366221837915" fill="#005ee2" rx="2" ry="2">
+                <title>wakatime-client: 04:13</title>
                 </rect>
             
-<text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text>
+<text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text>
 
-            <circle cx="99.5" cy="150.5" r="5" fill="#007eff" />
+                <rect x="340" y="65.4780827011764" width="30" height="41.021917298823595" fill="#005ee2" rx="2" ry="2">
+                <title>wakatime-client: 03:11</title>
+                </rect>
+            
+<text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text>
+
+            <circle cx="99.5" cy="150.5" r="5" fill="#003eea" />
             <text x="111.5" y="154.5" font-size="10" fill="#37b7a8">hatbazar-frontend</text>
             
 
-            <circle cx="255" cy="150.5" r="5" fill="#003fff" />
+            <circle cx="255" cy="150.5" r="5" fill="#0077ff" />
             <text x="267" y="154.5" font-size="10" fill="#37b7a8">waka-readme-state</text>
             
 
-            <circle cx="99.5" cy="170.5" r="5" fill="#0f53d2" />
+            <circle cx="99.5" cy="170.5" r="5" fill="#008adb" />
             <text x="111.5" y="174.5" font-size="10" fill="#37b7a8">youthnewsbd</text>
             
 
-            <circle cx="255" cy="170.5" r="5" fill="#0d7aff" />
+            <circle cx="255" cy="170.5" r="5" fill="#085eff" />
             <text x="267" y="174.5" font-size="10" fill="#37b7a8">portfolio</text>
             
 
-            <circle cx="99.5" cy="190.5" r="5" fill="#0058e1" />
+            <circle cx="99.5" cy="190.5" r="5" fill="#007aff" />
             <text x="111.5" y="194.5" font-size="10" fill="#37b7a8">user</text>
             
 
-            <circle cx="255" cy="190.5" r="5" fill="#1a3dec" />
+            <circle cx="255" cy="190.5" r="5" fill="#1192ff" />
             <text x="267" y="194.5" font-size="10" fill="#37b7a8">wakatime-stats</text>
             
 
-            <circle cx="99.5" cy="210.5" r="5" fill="#015feb" />
+            <circle cx="99.5" cy="210.5" r="5" fill="#0089eb" />
             <text x="111.5" y="214.5" font-size="10" fill="#37b7a8">wakatimeReadmeStats</text>
             
 
-            <circle cx="255" cy="210.5" r="5" fill="#0b86ff" />
+            <circle cx="255" cy="210.5" r="5" fill="#0090ff" />
             <text x="267" y="214.5" font-size="10" fill="#37b7a8">siMobin</text>
             
 
-            <circle cx="99.5" cy="230.5" r="5" fill="#0d89ff" />
+            <circle cx="99.5" cy="230.5" r="5" fill="#0063ff" />
             <text x="111.5" y="234.5" font-size="10" fill="#37b7a8">yfbd-hrm</text>
             
 
-            <circle cx="255" cy="230.5" r="5" fill="#2360d5" />
+            <circle cx="255" cy="230.5" r="5" fill="#005ee2" />
             <text x="267" y="234.5" font-size="10" fill="#37b7a8">wakatime-client</text>
             
-      <text x="212.5" y="262.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 20 hrs 11 mins</text>
+      <text x="212.5" y="262.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 18 hrs 13 mins</text>
     </g>
 </svg>
