@@ -42,8 +42,8 @@
 <rect x="130" y="238.5" width="45.70534956871047" height="12" fill="#006aff" rx="2" ry="2" />
 <text font-family="Calibri" x="181.70534956871046" y="247.5" font-size="9" fill="#37b7a8">16:59    |    3.3%</text>
 <text font-family="Calibri" x="122" y="271.5" font-size="10" text-anchor="end" fill="#37b7a8">wakatime-client</text>
-<rect x="130" y="262.5" width="42.92843053191247" height="12" fill="#006aff" rx="2" ry="2" />
-<text font-family="Calibri" x="178.92843053191245" y="271.5" font-size="9" fill="#37b7a8">15:57    |    3.1%</text>
-      <text font-family="Calibri" x="300" y="306.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 589 hrs 12 mins</text>
+<rect x="130" y="262.5" width="43.21831556963551" height="12" fill="#006aff" rx="2" ry="2" />
+<text font-family="Calibri" x="179.2183155696355" y="271.5" font-size="9" fill="#37b7a8">16:04    |    3.1%</text>
+      <text font-family="Calibri" x="300" y="306.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 589 hrs 19 mins</text>
     </g>
 </svg>
