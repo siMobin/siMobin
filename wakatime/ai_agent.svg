@@ -17,32 +17,32 @@
   
     <circle cx="200" cy="105" r="55" fill="none" stroke="#001533" stroke-width="26" />
     
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#3636e2" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e2e236" stroke-width="26"
       stroke-dasharray="203.84857858105275 141.72661331382452"
       stroke-dashoffset="0"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#36e236" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e236e2" stroke-width="26"
       stroke-dasharray="63.813035578746046 281.7621563161312"
       stroke-dashoffset="-203.84857858105275"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#36e2e2" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e23636" stroke-width="26"
       stroke-dasharray="56.40216862532971 289.17302326954757"
       stroke-dashoffset="-267.6616141597988"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#e23636" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#36e236" stroke-width="26"
       stroke-dasharray="9.599310885968812 335.97588100890846"
       stroke-dashoffset="-324.06378278512847"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#e2e236" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#3636e2" stroke-width="26"
       stroke-dasharray="8.18179606602005 337.3933958288572"
       stroke-dashoffset="-333.6630936710973"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#e236e2" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#36e2e2" stroke-width="26"
       stroke-dasharray="3.730302157759901 341.84488973711734"
       stroke-dashoffset="-341.84488973711734"
       transform="rotate(-90 200 105)"
@@ -54,32 +54,32 @@
       lines of code
     </text>
   
-      <rect x="20" y="180" width="10" height="10" fill="#3636e2" rx="2" />
+      <rect x="20" y="180" width="10" height="10" fill="#e2e236" rx="2" />
       <text x="36" y="190" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Deepseek</tspan> 8.2K lines (59.0%) · $7.90
       </text>
 
-      <rect x="20" y="204" width="10" height="10" fill="#36e236" rx="2" />
+      <rect x="20" y="204" width="10" height="10" fill="#e236e2" rx="2" />
       <text x="36" y="214" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">GPT</tspan> 2.6K lines (18.5%) · $45.19
       </text>
 
-      <rect x="20" y="228" width="10" height="10" fill="#36e2e2" rx="2" />
+      <rect x="20" y="228" width="10" height="10" fill="#e23636" rx="2" />
       <text x="36" y="238" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Hy</tspan> 2.3K lines (16.3%) · $30.55
       </text>
 
-      <rect x="220" y="180" width="10" height="10" fill="#e23636" rx="2" />
+      <rect x="220" y="180" width="10" height="10" fill="#36e236" rx="2" />
       <text x="236" y="190" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Gemini</tspan> 386 lines (2.8%) · $0.11
       </text>
 
-      <rect x="220" y="204" width="10" height="10" fill="#e2e236" rx="2" />
+      <rect x="220" y="204" width="10" height="10" fill="#3636e2" rx="2" />
       <text x="236" y="214" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Glm</tspan> 329 lines (2.4%) · $0.10
       </text>
 
-      <rect x="220" y="228" width="10" height="10" fill="#e236e2" rx="2" />
+      <rect x="220" y="228" width="10" height="10" fill="#36e2e2" rx="2" />
       <text x="236" y="238" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Sonnet</tspan> 150 lines (1.1%) · $0.00
       </text>
