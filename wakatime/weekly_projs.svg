@@ -26,54 +26,54 @@
 <text x="62" y="49.5" font-size="9" text-anchor="end" fill="#37b7a8">04:33</text>
 <text x="25" y="76.5" font-size="10" fill-opacity="1" text-anchor="middle" transform="rotate(-90, 25, 76.5)" fill="#37b7a8">Time</text>
 
-                <rect x="70" y="64.30144148484703" width="30" height="42.19855851515296" fill="#008af5" rx="2" ry="2">
-                <title>wakatime-client: 03:12</title>
-                </rect>
-            
-<text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text>
-
-                <rect x="115" y="52.54848907645126" width="30" height="53.95151092354874" fill="#008af5" rx="2" ry="2">
+                <rect x="70" y="52.54756834228512" width="30" height="53.95243165771488" fill="#058cec" rx="2" ry="2">
                 <title>wakatime-client: 04:06</title>
                 </rect>
             
 
-                <rect x="115" y="49.01170069221915" width="30" height="3.536788384232111" fill="#1548ee" rx="2" ry="2">
+                <rect x="70" y="49.01077995805301" width="30" height="3.536788384232111" fill="#1840ff" rx="2" ry="2">
                 <title>user: 16m</title>
                 </rect>
             
-<text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text>
+<text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text>
 
-                <rect x="160" y="46.5" width="30" height="60" fill="#008af5" rx="2" ry="2">
+                <rect x="115" y="46.5" width="30" height="60" fill="#058cec" rx="2" ry="2">
                 <title>wakatime-client: 04:33</title>
                 </rect>
             
-<text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text>
+<text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text>
 
-                <rect x="205" y="105.08236533440736" width="30" height="1.4176346655926393" fill="#008af5" rx="2" ry="2">
+                <rect x="160" y="105.08236533440736" width="30" height="1.4176346655926393" fill="#058cec" rx="2" ry="2">
                 <title>wakatime-client: 06m</title>
                 </rect>
             
-<text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text>
-<text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text>
+<text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text>
+<text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text>
 
-                <rect x="295" y="63.5794251354825" width="30" height="42.9205748645175" fill="#008af5" rx="2" ry="2">
+                <rect x="250" y="63.5794251354825" width="30" height="42.9205748645175" fill="#058cec" rx="2" ry="2">
                 <title>wakatime-client: 03:15</title>
                 </rect>
             
-<text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text>
-<text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text>
+<text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text>
+<text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text>
 
-            <circle cx="125.5" cy="150.5" r="5" fill="#008af5" />
+                <rect x="340" y="87.06482534854234" width="30" height="19.435174651457665" fill="#005ad2" rx="2" ry="2">
+                <title>siMobin: 01:28</title>
+                </rect>
+            
+<text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text>
+
+            <circle cx="125.5" cy="150.5" r="5" fill="#058cec" />
             <text x="137.5" y="154.5" font-size="10" fill="#37b7a8">wakatime-client</text>
             
 
-            <circle cx="255" cy="150.5" r="5" fill="#1548ee" />
+            <circle cx="255" cy="150.5" r="5" fill="#1840ff" />
             <text x="267" y="154.5" font-size="10" fill="#37b7a8">user</text>
             
 
-            <circle cx="125.5" cy="170.5" r="5" fill="#007cff" />
+            <circle cx="125.5" cy="170.5" r="5" fill="#005ad2" />
             <text x="137.5" y="174.5" font-size="10" fill="#37b7a8">siMobin</text>
             
-      <text x="212.5" y="202.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 15 hrs 30 mins</text>
+      <text x="212.5" y="202.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 13 hrs 46 mins</text>
     </g>
 </svg>
