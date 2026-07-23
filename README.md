@@ -212,6 +212,9 @@ Permission denied: Missing dependency — life partner not found
   <img style="width:40%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/top-langs?username=siMobin&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&exclude_repo=Stamford-University-Bangladesh" alt="languages graph"/>
 
   <img style="width:80%;" align="center" src="https://github-readme-streak-stats-ff-ten.vercel.app?user=siMobin&theme=transparent&hide_border=true&fire=red&ring=ff9a00&short_numbers=true&stroke=EBEBEB10" alt="siMobin's streak graph"/>
+
+<details>
+<summary>More Stats (click to expand)</summary>
   <img style="width:45%;" align="right" src="https://simobin-s-github-readme-stats.vercel.app/api/wakatime?username=siMobin&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=00000000&display_format=percent" alt="siMobin's streak graph"/>
 
 <!-- <div align="center"> -->
@@ -226,6 +229,7 @@ Permission denied: Missing dependency — life partner not found
    <img style="width:45%;" align="right" src="./wakatime/ai_coding.svg?v=20260722" alt="languages graph"/>
   <img style="width:45%;" align="left" src="./wakatime/ai_agent.svg?v=20260722" alt="shakibul islam mobin" />
 
+</details>
   <img style="width:100%;" align="center" src="https://github-readme-activity-graph-rose-two.vercel.app/graph?username=siMobin&custom_title=%20&bg_color=00000000&color=2f81f7&line=008080&point=428EEE&area_color=2f81f7&title_color=428EEE&area=true&days=45&radius=16&hide_border=true" alt="siMobin">
 </div>
 
