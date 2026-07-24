@@ -14,35 +14,35 @@
   
   <g transform="translate(0, 10) scale(1)">
       <text x="240" y="30" text-anchor="middle" fill="#006aff" font-size="15" font-weight="bold" font-family="Calibri">Coding History</text>
-<path d="M 135 68 A 72 72 0 1 1 103.4056563798937 75.30226084927969 L 116.56996622160466 102.25965216207982 A 42 42 0 1 0 135 98 Z" fill="hsl(264.9216546683974, 60%, 55%)" />
-<path d="M 103.4056563798937 75.30226084927969 A 72 72 0 0 1 122.57654193031343 69.07992040620132 L 127.75298279268283 98.6299535702841 A 42 42 0 0 0 116.56996622160466 102.25965216207982 Z" fill="hsl(42.42965466839746, 60%, 55%)" />
-<path d="M 122.57654193031343 69.07992040620132 A 72 72 0 0 1 133.4167649213396 68.01740928053715 L 134.07644620411477 98.01015541364667 A 42 42 0 0 0 127.75298279268283 98.6299535702841 Z" fill="hsl(179.9376546683975, 60%, 55%)" />
-<path d="M 133.4167649213396 68.01740928053715 A 72 72 0 0 1 134.5023756855198 68.00171967302526 L 134.70971914988655 98.00100314259807 A 42 42 0 0 0 134.07644620411477 98.01015541364667 Z" fill="hsl(317.4456546683974, 60%, 55%)" />
-<path d="M 134.5023756855198 68.00171967302526 A 72 72 0 0 1 134.7738057010166 68.00035530546621 L 134.86805332559302 98.00020726152195 A 42 42 0 0 0 134.70971914988655 98.00100314259807 Z" fill="hsl(94.95365466839746, 60%, 55%)" />
-<path d="M 134.7738057010166 68.00035530546621 A 72 72 0 0 1 134.99999999999991 68 L 134.99999999999994 98 A 42 42 0 0 0 134.86805332559302 98.00020726152195 Z" fill="hsl(232.4616546683975, 60%, 55%)" />
+<path d="M 135 68 A 72 72 0 1 1 102.79730677709733 75.60289952807177 L 116.21509561997345 102.43502472470854 A 42 42 0 1 0 135 98 Z" fill="hsl(317.65072623350636, 60%, 55%)" />
+<path d="M 102.79730677709733 75.60289952807177 A 72 72 0 0 1 122.4874309625196 69.09558817617703 L 127.7010013948031 98.63909310276993 A 42 42 0 0 0 116.21509561997345 102.43502472470854 Z" fill="hsl(95.1587262335064, 60%, 55%)" />
+<path d="M 122.4874309625196 69.09558817617703 A 72 72 0 0 1 133.41676492133965 68.01740928053715 L 134.0764462041148 98.01015541364667 A 42 42 0 0 0 127.7010013948031 98.63909310276993 Z" fill="hsl(232.66672623350632, 60%, 55%)" />
+<path d="M 133.41676492133965 68.01740928053715 A 72 72 0 0 1 134.50237568551987 68.00171967302526 L 134.70971914988658 98.00100314259807 A 42 42 0 0 0 134.0764462041148 98.01015541364667 Z" fill="hsl(10.174726233506362, 60%, 55%)" />
+<path d="M 134.50237568551987 68.00171967302526 A 72 72 0 0 1 134.77380570101667 68.00035530546621 L 134.86805332559305 98.00020726152195 A 42 42 0 0 0 134.70971914988658 98.00100314259807 Z" fill="hsl(147.6827262335064, 60%, 55%)" />
+<path d="M 134.77380570101667 68.00035530546621 A 72 72 0 0 1 135 68 L 135 98 A 42 42 0 0 0 134.86805332559305 98.00020726152195 Z" fill="hsl(285.19072623350644, 60%, 55%)" />
 
 
-    <text x="135" y="138" text-anchor="middle" fill="#37b7a8" font-size="24" font-weight="bold" font-family="Calibri">594<tspan font-size="14" font-weight="normal"> hr</tspan></text>
-    <text x="135" y="154" text-anchor="middle" fill="#37b7a8" font-size="14" font-weight="bold" font-family="Calibri">32<tspan font-size="10" font-weight="normal"> min</tspan></text>
-<text x="240" y="50" fill="#37b7a8" font-size="12" font-family="Calibri"><tspan font-weight="bold">Daily Avg:</tspan> 3 hrs 2 mins</text>
+    <text x="135" y="138" text-anchor="middle" fill="#37b7a8" font-size="24" font-weight="bold" font-family="Calibri">595<tspan font-size="14" font-weight="normal"> hr</tspan></text>
+    <text x="135" y="154" text-anchor="middle" fill="#37b7a8" font-size="14" font-weight="bold" font-family="Calibri">41<tspan font-size="10" font-weight="normal"> min</tspan></text>
+<text x="240" y="50" fill="#37b7a8" font-size="12" font-family="Calibri"><tspan font-weight="bold">Daily Avg:</tspan> 3 hrs</text>
 <text x="240" y="69" fill="#37b7a8" font-size="12" font-family="Calibri"><tspan font-weight="bold">Peak:</tspan> 9 hrs 14 mins</text>
   <text x="240" y="96" fill="#006aff" font-size="12" font-weight="bold" font-family="Calibri">Categories</text>
-<rect x="240" y="106" width="8" height="8" rx="2" fill="hsl(264.9216546683974, 60%, 55%)" />
+<rect x="240" y="106" width="8" height="8" rx="2" fill="hsl(317.65072623350636, 60%, 55%)" />
 <text x="253" y="113" fill="#37b7a8" font-size="12" font-family="Calibri">Coding</text>
-<text x="430" y="113" fill="#37b7a8" font-size="10" font-family="Calibri" text-anchor="end">556 hours 43 minutes</text>
-<rect x="240" y="125" width="8" height="8" rx="2" fill="hsl(42.42965466839746, 60%, 55%)" />
+<text x="430" y="113" fill="#37b7a8" font-size="10" font-family="Calibri" text-anchor="end">556 hours 54 minutes</text>
+<rect x="240" y="125" width="8" height="8" rx="2" fill="hsl(95.1587262335064, 60%, 55%)" />
 <text x="253" y="132" fill="#37b7a8" font-size="12" font-family="Calibri">AI Coding</text>
-<text x="430" y="132" fill="#37b7a8" font-size="10" font-family="Calibri" text-anchor="end">26 hours 50 minutes</text>
-<rect x="240" y="144" width="8" height="8" rx="2" fill="hsl(179.9376546683975, 60%, 55%)" />
+<text x="430" y="132" fill="#37b7a8" font-size="10" font-family="Calibri" text-anchor="end">27 hours 39 minutes</text>
+<rect x="240" y="144" width="8" height="8" rx="2" fill="hsl(232.66672623350632, 60%, 55%)" />
 <text x="253" y="151" fill="#37b7a8" font-size="12" font-family="Calibri">Writing Docs</text>
-<text x="430" y="151" fill="#37b7a8" font-size="10" font-family="Calibri" text-anchor="end">14 hours 27 minutes</text>
-<rect x="240" y="163" width="8" height="8" rx="2" fill="hsl(317.4456546683974, 60%, 55%)" />
+<text x="430" y="151" fill="#37b7a8" font-size="10" font-family="Calibri" text-anchor="end">14 hours 36 minutes</text>
+<rect x="240" y="163" width="8" height="8" rx="2" fill="hsl(10.174726233506362, 60%, 55%)" />
 <text x="253" y="170" fill="#37b7a8" font-size="12" font-family="Calibri">Debugging</text>
 <text x="430" y="170" fill="#37b7a8" font-size="10" font-family="Calibri" text-anchor="end">1 hour 26 minutes</text>
-<rect x="240" y="182" width="8" height="8" rx="2" fill="hsl(94.95365466839746, 60%, 55%)" />
+<rect x="240" y="182" width="8" height="8" rx="2" fill="hsl(147.6827262335064, 60%, 55%)" />
 <text x="253" y="189" fill="#37b7a8" font-size="12" font-family="Calibri">Building</text>
 <text x="430" y="189" fill="#37b7a8" font-size="10" font-family="Calibri" text-anchor="end">22 minutes</text>
-<rect x="240" y="201" width="8" height="8" rx="2" fill="hsl(232.4616546683975, 60%, 55%)" />
+<rect x="240" y="201" width="8" height="8" rx="2" fill="hsl(285.19072623350644, 60%, 55%)" />
 <text x="253" y="208" fill="#37b7a8" font-size="12" font-family="Calibri">Writing Tests</text>
 <text x="430" y="208" fill="#37b7a8" font-size="10" font-family="Calibri" text-anchor="end">17 minutes</text>
     </g>

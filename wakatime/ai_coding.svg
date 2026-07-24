@@ -13,26 +13,26 @@
   />
   
   <g transform="translate(0, 10) scale(1)">
-      <text x="200" y="28" text-anchor="middle" fill="#006aff" font-size="16" font-weight="bold" font-family="Calibri">AI Coding (5.8% AI-driven)</text>
+      <text x="200" y="28" text-anchor="middle" fill="#006aff" font-size="16" font-weight="bold" font-family="Calibri">AI Coding (5.7% AI-driven)</text>
   
     <circle cx="200" cy="105" r="55" fill="none" stroke="#006aff" stroke-width="26" opacity="0.2" />
     <circle cx="200" cy="105" r="55" fill="none" stroke="#006aff" stroke-width="26"
-      stroke-dasharray="20.128735675683856 345.57519189487726"
+      stroke-dasharray="19.584973118289323 345.57519189487726"
       stroke-dashoffset="86.39379797371932"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
     <text x="200" y="103" text-anchor="middle" fill="#37b7a8" font-size="24" font-weight="bold" font-family="Calibri">
-      5.8%
+      5.7%
     </text>
     <text x="200" y="119" text-anchor="middle" fill="#37b7a8" font-size="14" font-family="Calibri">
       AI-driven
     </text>
-  <text x="25" y="200" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">AI Lines:</tspan> +16.8K / -916</text>
-<text x="210" y="200" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Cost:</tspan> $129.21</text>
-<text x="25" y="224" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Human Lines:</tspan> +173.9K / -111.8K</text>
-<text x="210" y="224" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Human Review:</tspan> 107 sessions</text>
-<text x="25" y="248" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Tokens In:</tspan> 57.0M</text>
-<text x="210" y="248" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Human Follow-up:</tspan> 462 edits</text>
-<text x="25" y="272" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Tokens Out:</tspan> 728.1K</text>
+  <text x="25" y="200" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">AI Lines:</tspan> +16.3K / -877</text>
+<text x="210" y="200" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Cost:</tspan> $0.00</text>
+<text x="25" y="224" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Human Lines:</tspan> +173.9K / -112.1K</text>
+<text x="210" y="224" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Human Review:</tspan> 114 sessions</text>
+<text x="25" y="248" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Tokens In:</tspan> 53.9M</text>
+<text x="210" y="248" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Human Follow-up:</tspan> 269 edits</text>
+<text x="25" y="272" fill="#37b7a8" font-size="13" font-family="Calibri"><tspan font-weight="bold">Tokens Out:</tspan> 667.6K</text>
     </g>
 </svg>
