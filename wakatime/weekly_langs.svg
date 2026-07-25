@@ -13,107 +13,123 @@
   />
   
   <g transform="translate(0, 10) scale(1)">
-      <text x="212.5" y="22.5" font-size="12" text-anchor="middle" fill="#37b7a8" font-weight="bold">This week, I mostly wrote in TypeScript</text>
+      <text x="212.5" y="22.5" font-size="12" text-anchor="middle" fill="#37b7a8" font-weight="bold">This week, I mostly wrote in TeX</text>
       <line x1="70" y1="106.5" x2="371" y2="106.5" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
 <line x1="70" y1="91.5" x2="371" y2="91.5" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
 <line x1="70" y1="76.5" x2="371" y2="76.5" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
-<line x1="70" y1="61.50000000000001" x2="371" y2="61.50000000000001" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
+<line x1="70" y1="61.5" x2="371" y2="61.5" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
 <line x1="70" y1="46.5" x2="371" y2="46.5" stroke="#37b7a8" stroke-width="0.5" stroke-dasharray="2,2"/>
 <text x="62" y="109.5" font-size="9" text-anchor="end" fill="#37b7a8">00:00</text>
-<text x="62" y="94.5" font-size="9" text-anchor="end" fill="#37b7a8">49m</text>
-<text x="62" y="79.5" font-size="9" text-anchor="end" fill="#37b7a8">01:38</text>
-<text x="62" y="64.5" font-size="9" text-anchor="end" fill="#37b7a8">02:27</text>
-<text x="62" y="49.5" font-size="9" text-anchor="end" fill="#37b7a8">03:16</text>
+<text x="62" y="94.5" font-size="9" text-anchor="end" fill="#37b7a8">22m</text>
+<text x="62" y="79.5" font-size="9" text-anchor="end" fill="#37b7a8">44m</text>
+<text x="62" y="64.5" font-size="9" text-anchor="end" fill="#37b7a8">01:06</text>
+<text x="62" y="49.5" font-size="9" text-anchor="end" fill="#37b7a8">01:28</text>
 <text x="25" y="76.5" font-size="10" fill-opacity="1" text-anchor="middle" transform="rotate(-90, 25, 76.5)" fill="#37b7a8">Time</text>
+<text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text>
 
-                <rect x="70" y="104.52619938795067" width="30" height="1.973800612049338" fill="#0a84ff" rx="2" ry="2">
-                <title>Markdown: 06m</title>
-                </rect>
-            
-<text x="85" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text>
-<text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text>
-
-                <rect x="160" y="92.43170496624097" width="30" height="14.068295033759032" fill="#0a84ff" rx="2" ry="2">
-                <title>Markdown: 46m</title>
-                </rect>
-            
-
-                <rect x="160" y="47.68746287456312" width="30" height="44.744242091677854" fill="#003fff" rx="2" ry="2">
-                <title>TypeScript: 02:26</title>
-                </rect>
-            
-
-                <rect x="160" y="46.49999999999999" width="30" height="1.187462874563122" fill="#0f3ff9" rx="2" ry="2">
-                <title>JSON: 03m</title>
-                </rect>
-            
-<text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text>
-<text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text>
-
-                <rect x="250" y="97.74088111093381" width="30" height="8.759118889066187" fill="#0a84ff" rx="2" ry="2">
-                <title>Markdown: 28m</title>
-                </rect>
-            
-
-                <rect x="250" y="80.18266359313692" width="30" height="17.558217517796894" fill="#0042e3" rx="2" ry="2">
+                <rect x="115" y="67.56821890010778" width="30" height="38.93178109989222" fill="#0094fe" rx="2" ry="2">
                 <title>TeX: 57m</title>
                 </rect>
             
 
-                <rect x="250" y="79.74374109434639" width="30" height="0.43892249879053535" fill="#007de1" rx="2" ry="2">
+                <rect x="115" y="48.146651826376505" width="30" height="19.421567073731275" fill="#0963db" rx="2" ry="2">
+                <title>Markdown: 28m</title>
+                </rect>
+            
+
+                <rect x="115" y="47.173430334763786" width="30" height="0.9732214916127171" fill="#007ce4" rx="2" ry="2">
                 <title>YAML: 01m</title>
                 </rect>
             
 
-                <rect x="250" y="79.4400242859495" width="30" height="0.30371680839688153" fill="#0060e4" rx="2" ry="2">
+                <rect x="115" y="46.5" width="30" height="0.6734303347637839" fill="#1251ff" rx="2" ry="2">
                 <title>Git: 00m</title>
                 </rect>
             
-<text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text>
+<text x="130" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text>
 
-                <rect x="295" y="106.15838917445576" width="30" height="0.3416108255442337" fill="#0a84ff" rx="2" ry="2">
+                <rect x="160" y="105.74254737885772" width="30" height="0.7574526211422813" fill="#0963db" rx="2" ry="2">
                 <title>Markdown: 01m</title>
                 </rect>
             
 
-                <rect x="295" y="96.79756986195399" width="30" height="9.360819312501771" fill="#0080ff" rx="2" ry="2">
+                <rect x="160" y="84.98683182740295" width="30" height="20.755715551454767" fill="#1b55ff" rx="2" ry="2">
                 <title>Python: 30m</title>
                 </rect>
             
-<text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text>
-<text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text>
+<text x="175" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text>
+<text x="220" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text>
 
-            <circle cx="109.5" cy="150.5" r="5" fill="#0a84ff" />
-            <text x="121.5" y="154.5" font-size="10" fill="#37b7a8">Markdown</text>
+                <rect x="250" y="104.6888566979546" width="30" height="1.8111433020453995" fill="#0963db" rx="2" ry="2">
+                <title>Markdown: 02m</title>
+                </rect>
             
 
-            <circle cx="206.5" cy="150.5" r="5" fill="#003fff" />
-            <text x="218.5" y="154.5" font-size="10" fill="#37b7a8">TypeScript</text>
+                <rect x="250" y="102.56756749897497" width="30" height="2.1212891989796403" fill="#007ce4" rx="2" ry="2">
+                <title>YAML: 03m</title>
+                </rect>
             
 
-            <circle cx="303.5" cy="150.5" r="5" fill="#0f3ff9" />
-            <text x="315.5" y="154.5" font-size="10" fill="#37b7a8">JSON</text>
+                <rect x="250" y="101.86755097425359" width="30" height="0.7000165247213781" fill="#1251ff" rx="2" ry="2">
+                <title>Git: 01m</title>
+                </rect>
             
 
-            <circle cx="109.5" cy="170.5" r="5" fill="#0042e3" />
-            <text x="121.5" y="174.5" font-size="10" fill="#37b7a8">TeX</text>
+                <rect x="250" y="62.025646875163915" width="30" height="39.841904099089675" fill="#0675d8" rx="2" ry="2">
+                <title>JSON: 58m</title>
+                </rect>
             
 
-            <circle cx="206.5" cy="170.5" r="5" fill="#007de1" />
-            <text x="218.5" y="174.5" font-size="10" fill="#37b7a8">YAML</text>
+                <rect x="250" y="57.70589295251653" width="30" height="4.319753922647385" fill="#2b73ff" rx="2" ry="2">
+                <title>Other: 06m</title>
+                </rect>
+            
+<text x="265" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text>
+<text x="310" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text>
+
+                <rect x="340" y="63.79841672865788" width="30" height="42.70158327134212" fill="#0094fe" rx="2" ry="2">
+                <title>TeX: 01:03</title>
+                </rect>
             
 
-            <circle cx="303.5" cy="170.5" r="5" fill="#0060e4" />
-            <text x="315.5" y="174.5" font-size="10" fill="#37b7a8">Git</text>
+                <rect x="340" y="63.040693395356506" width="30" height="0.7577233333013743" fill="#1251ff" rx="2" ry="2">
+                <title>Git: 01m</title>
+                </rect>
             
 
-            <circle cx="109.5" cy="190.5" r="5" fill="#0080ff" />
-            <text x="121.5" y="194.5" font-size="10" fill="#37b7a8">Python</text>
+                <rect x="340" y="63.0030080068761" width="30" height="0.03768538848040806" fill="#2b73ff" rx="2" ry="2">
+                <title>Other: 00m</title>
+                </rect>
+            
+<text x="355" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text>
+
+            <circle cx="129" cy="150.5" r="5" fill="#0094fe" />
+            <text x="141" y="154.5" font-size="10" fill="#37b7a8">TeX</text>
             
 
-            <circle cx="206.5" cy="190.5" r="5" fill="#1e82e3" />
-            <text x="218.5" y="194.5" font-size="10" fill="#37b7a8">Other</text>
+            <circle cx="213" cy="150.5" r="5" fill="#0963db" />
+            <text x="225" y="154.5" font-size="10" fill="#37b7a8">Markdown</text>
             
-      <text x="212.5" y="222.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 5 hrs 23 mins</text>
+
+            <circle cx="297" cy="150.5" r="5" fill="#007ce4" />
+            <text x="309" y="154.5" font-size="10" fill="#37b7a8">YAML</text>
+            
+
+            <circle cx="129" cy="170.5" r="5" fill="#1251ff" />
+            <text x="141" y="174.5" font-size="10" fill="#37b7a8">Git</text>
+            
+
+            <circle cx="213" cy="170.5" r="5" fill="#1b55ff" />
+            <text x="225" y="174.5" font-size="10" fill="#37b7a8">Python</text>
+            
+
+            <circle cx="297" cy="170.5" r="5" fill="#0675d8" />
+            <text x="309" y="174.5" font-size="10" fill="#37b7a8">JSON</text>
+            
+
+            <circle cx="129" cy="190.5" r="5" fill="#2b73ff" />
+            <text x="141" y="194.5" font-size="10" fill="#37b7a8">Other</text>
+            
+      <text x="212.5" y="222.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 4 hrs 16 mins</text>
     </g>
 </svg>
