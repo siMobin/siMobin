@@ -7,6 +7,36 @@
 % Font selection for pdflatex
 \usepackage[rm]{roboto}
 \usepackage[defaultsans]{lato}
+% Start Hyphenation Rules
+% -----------------------------------------------------------------------------
+% Line Breaking & Hyphenation
+%
+% These settings reduce automatic word hyphenation while keeping text within
+% the page margins.
+%
+% \hyphenpenalty=10000
+%   Prevents TeX from automatically splitting words (e.g., "organi-zational").
+%   0 → Hyphenation is allowed freely.
+%   50 → Default (approximately).
+%   1000 → Avoid hyphenation when possible.
+%   10000 → Never hyphenate automatically.
+%
+% \exhyphenpenalty=10000
+%   Prevents line breaks at explicit hyphens in words such as
+%   "state-of-the-art".
+%
+% \emergencystretch=3em
+%   Gives TeX additional flexibility to stretch inter-word spaces when
+%   necessary. This helps move an entire word to the next line instead of
+%   hyphenating it, while reducing overfull lines.
+%
+% Higher values reduce hyphenation but may produce slightly wider spaces
+% between words in difficult paragraphs.
+% -----------------------------------------------------------------------------
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\emergencystretch=1em
+% End of Hyphenation Rules
 \renewcommand{\familydefault}{\sfdefault}
 
 % Original colors
@@ -30,7 +60,7 @@
 \begin{document}
 
 \name{Md. Shakibul Islam}
-\tagline{\normalsize{Computer Engineer | Graphic Designer}}
+\tagline{\normalsize{Computer Science Engineer | Full Stack Developer}}
 \vspace{4mm}
 \personalinfo{
     \email{shakibulislammobin@gmail.com}
@@ -60,7 +90,7 @@
 
     \divider
 
-    \cvevent{Jonior Graphic Designer}{Help The Children Foundation \hfill 2024 -- Present}{}{}
+    \cvevent{Junior Graphic Designer}{Help The Children Foundation \hfill 2024 -- Present}{}{}
     \begin{itemize}
         \item Designed promotional graphics for digital and print media.
         \item Created social media graphics and visual assets.
@@ -87,11 +117,12 @@
     \cvsection{Skills}
     \newcommand{\skilltag}[2]{\textbf{#1:} #2}
 
-    \skilltag{Languages}{PHP, JavaScript, TypeScript, Python, Java, C++, C}\\[0.5em]
+    \skilltag{Languages}{PHP, TypeScript, JavaScript, Python, Java, C++, C}\\[0.5em]
     \skilltag{Frontend}{HTML, CSS, SCSS, Next.js, Tailwind CSS, Vite}\\[0.5em]
     \skilltag{Backend}{Laravel, Livewire, Filament}\\[0.5em]
-    \skilltag{Database}{Microsoft SQL Server, MySQL, PostgreSQL, SQLite}\\[0.5em]
-    \skilltag{DevOps}{Git, GitHub, Docker, CI/CD (GitHub Actions)}\\[0.5em]
+    \skilltag{Databases}{Microsoft SQL Server, MySQL, PostgreSQL, SQLite}\\[0.5em]
+    \skilltag{DevOps \& Tools}{Git, GitHub, Docker, CI/CD (GitHub Actions)}\\[0.5em]
+    \skilltag{Documentation}{Markdown, LaTeX}\\[0.5em]
     \skilltag{Cloud \& Platform Services}{Supabase, Google Cloud, Cloudflare, Vercel}\\[0.5em]
     \skilltag{Design Tools}{Photoshop, Illustrator, Adobe XD, Premiere Pro}\\[0.5em]
     \skilltag{Operating Systems}{Windows, Linux}\\[0.5em]
@@ -102,7 +133,7 @@
     \cvsection{Education}
     \cvevent{B.Sc. in Computer Science and Engineering}{Stamford University Bangladesh}{}{}
     \begin{itemize}[leftmargin=0cm, label={\color{primary}}, itemsep=0pt]
-        \item  \faGraduationCap\ Graduated: 2026 \hspace{3mm} \faMedal\ CGPA: 3.20/4.00
+        \item  \faGraduationCap\ Graduated: 2026 \hspace{3mm} \faMedal\ CGPA: 3.22/4.00
     \end{itemize}
 
     % Certifications
