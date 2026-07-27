@@ -40,7 +40,7 @@ DEFAULT_STYLES = {
     'border_width': 2,
     'border_radius': 10,
     'font_family': 'Calibri',
-    'show_header': True,
+    'show_header': False,
     'show_logo': True,
     'title_prefix': '',
 }
@@ -89,8 +89,8 @@ CARD_EXTRA = {
         'hide_time': True,
         'hide_percentage': True,
         'hide_title': False,
-        'y_axis': True,
-        'y_axis_label': True,
+        'y_axis': False,
+        'y_axis_label': False,
     },
     'weekly_langs': {
         'chart_type': 'bar',
@@ -103,8 +103,8 @@ CARD_EXTRA = {
         'hide_time': True,
         'hide_percentage': True,
         'hide_title': False,
-        'y_axis': True,
-        'y_axis_label': True,
+        'y_axis': False,
+        'y_axis_label': False,
     },
     'weekly_avg': {
         'chart_type': 'bar',

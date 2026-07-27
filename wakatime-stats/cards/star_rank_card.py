@@ -2,17 +2,19 @@ import os
 import re
 import math
 import base64
+from pathlib import Path
 import requests
 from cards.calculate_rank import calculate_rank, get_medians
 from cards.utils import safe_fetch_json, waka_auth_header, parse_hours
+
+_STATIC_DIR = str(Path(__file__).parent.parent / 'static')
 
 _icon_cache = {}
 
 
 def load_clean_single_path(filename, mode, rank_color):
     rank_color = rank_color.lstrip('#')
-    static_dir = os.path.join(os.getcwd(), 'static')
-    filepath = os.path.join(static_dir, filename)
+    filepath = os.path.join(_STATIC_DIR, filename)
     with open(filepath, 'r', encoding='utf-8') as f:
         raw = f.read()
     match = re.search(r'<path\s+([^>]*)\/?>', raw, re.I)
@@ -43,7 +45,7 @@ def load_icon(name, rank_color):
     key = f'{name}-{rank_color}'
     if key in _icon_cache:
         return _icon_cache[key]
-    icons_dir = os.path.join(os.getcwd(), 'static', 'icons')
+    icons_dir = os.path.join(_STATIC_DIR, 'icons')
     filepath = os.path.join(icons_dir, f'{name}.svg')
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
