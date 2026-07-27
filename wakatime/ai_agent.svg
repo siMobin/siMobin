@@ -1,18 +1,80 @@
-
-<svg width="400" height="230" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+<svg width="400" height="312" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
   <rect
-    x="1"
-    y="1"
+    x="1.0"
+    y="1.0"
     width="398"
-    height="228"
-    fill="none"
-    stroke="none"
-    stroke-width="2"
+    height="310"
+    fill="none" stroke="none"
+    
     rx="10"
     ry="10"
   />
   
-  <g transform="translate(0, 10) scale(1)">
-      <text x="200" y="100" text-anchor="middle" fill="#999">No AI agent data</text>
+  <g transform="translate(0.0, 10) scale(1)">
+      <text x="200" y="28" text-anchor="middle" fill="#006aff" font-size="16" font-weight="bold" font-family="Calibri">AI Agents</text>
+  
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#001533" stroke-width="26" />
+    
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#36e236" stroke-width="26"
+      stroke-dasharray="231.76612029065998 113.80907160421728"
+      stroke-dashoffset="0"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e2e236" stroke-width="26"
+      stroke-dasharray="58.021298862707795 287.55389303216947"
+      stroke-dashoffset="-231.76612029065998"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#36e2e2" stroke-width="26"
+      stroke-dasharray="43.091940052592825 302.48325184228446"
+      stroke-dashoffset="-289.78741915336775"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e236e2" stroke-width="26"
+      stroke-dasharray="5.424277722910164 340.1509141719671"
+      stroke-dashoffset="-332.87935920596055"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e23636" stroke-width="26"
+      stroke-dasharray="4.819714261533179 340.75547763334407"
+      stroke-dashoffset="-338.30363692887073"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#3636e2" stroke-width="26"
+      stroke-dasharray="2.451840704473325 343.1233511904039"
+      stroke-dashoffset="-343.1233511904039"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <text x="200" y="101" text-anchor="middle" fill="#37b7a8" font-size="24" font-weight="bold" font-family="Calibri">
+      20.6K
+    </text>
+    <text x="200" y="117" text-anchor="middle" fill="#37b7a8" font-size="14" font-family="Calibri">
+      lines of code
+    </text>
+  
+      <rect x="20" y="180" width="10" height="10" fill="#36e236" rx="2" />
+      <text x="36" y="190" fill="#37b7a8" font-size="12" font-family="Calibri">
+        <tspan font-weight="bold">Deepseek</tspan> 13.8K lines (67.1%) · $6.60
+      </text> 
+      <rect x="20" y="204" width="10" height="10" fill="#e2e236" rx="2" />
+      <text x="36" y="214" fill="#37b7a8" font-size="12" font-family="Calibri">
+        <tspan font-weight="bold">Hy</tspan> 3.5K lines (16.8%) · $70.11
+      </text> 
+      <rect x="20" y="228" width="10" height="10" fill="#36e2e2" rx="2" />
+      <text x="36" y="238" fill="#37b7a8" font-size="12" font-family="Calibri">
+        <tspan font-weight="bold">GPT</tspan> 2.6K lines (12.5%) · $123.43
+      </text> 
+      <rect x="220" y="180" width="10" height="10" fill="#e236e2" rx="2" />
+      <text x="236" y="190" fill="#37b7a8" font-size="12" font-family="Calibri">
+        <tspan font-weight="bold">Glm</tspan> 323 lines (1.6%) · $0.10
+      </text> 
+      <rect x="220" y="204" width="10" height="10" fill="#e23636" rx="2" />
+      <text x="236" y="214" fill="#37b7a8" font-size="12" font-family="Calibri">
+        <tspan font-weight="bold">Gemini</tspan> 287 lines (1.4%) · $0.03
+      </text> 
+      <rect x="220" y="228" width="10" height="10" fill="#3636e2" rx="2" />
+      <text x="236" y="238" fill="#37b7a8" font-size="12" font-family="Calibri">
+        <tspan font-weight="bold">Sonnet</tspan> 146 lines (0.7%) · $0.00
+      </text>
     </g>
 </svg>
