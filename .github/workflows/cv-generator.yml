@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "CV/**"
+      - "**/cv-generator.yml"
   workflow_dispatch:
 
 permissions:
@@ -39,10 +40,12 @@ jobs:
           working_directory: CV
           root_file: main.tex
           latexmk_use_xelatex: true
+          pre_compile: |
+            echo '\def\MINIMALCV{}\input{main.tex}' > minimal.tex
+          root_file: minimal.tex
           args: >
             -jobname=main
             -pdf
-            -pdflatex="xelatex %O '\def\MINIMALCV{}\input{%S}'"
 
       # ---------------------------
       # Copy PDFs
