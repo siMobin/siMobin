@@ -9,6 +9,11 @@ on:
       - "**/cv-generator.yml"
   workflow_dispatch:
 
+# Cancel any in-progress runs of this workflow when a new commit is pushed to the same branch
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -74,5 +79,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore(cv): `update` (date=$(date -u +%Y%m%d))"
+          git commit -m "chore(cv): (update=$(date -u +%Y%m%d))"
           git push

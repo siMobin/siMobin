@@ -11,6 +11,11 @@ on:
     - cron: "0 12 * * 5" # every Friday at 12:00
   workflow_dispatch:
 
+# Cancel any in-progress runs of this workflow when a new commit is pushed to the same branch
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
