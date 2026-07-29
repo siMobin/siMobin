@@ -1,4 +1,4 @@
-\documentclass[10pt,a4paper,ragged2e,withhyper]{files/altacv}
+\documentclass[10pt,a4paper,ragged2e,withhyper,normalphoto]{files/altacv}
 % Change the page layout if you need to
 \geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.25cm}
 \usepackage{paracol}
@@ -57,103 +57,74 @@
 \renewcommand{\cvsectionfont}{\large\rmfamily\bfseries}
 \renewcommand{\cvsubsectionfont}{\large\bfseries}
 
+% Section formatting
+% -----------------------------------------------------------------------------
+% It reduces the height of the underline
+% of the section title
+% 
+% Default: 2pt
+% -----------------------------------------------------------------------------
+\let\oldcvsection\cvsection
+\renewcommand{\cvsection}[2][]{%
+\nointerlineskip\bigskip%
+\ifstrequal{#1}{}{}{\marginpar{\vspace*{\dimexpr1pt-\baselineskip}\raggedright\input{#1}}}%
+{\color{heading}\cvsectionfont\MakeUppercase{#2}}\\[-1ex]%
+{\color{headingrule}\rule{\linewidth}{0.5mm}\par}\medskip
+}
+% End of section formatting
+
+% Project formatting
+% -----------------------------------------------------------------------------
+% It controls the formatting of the project title
+% font size and spacing
+% -----------------------------------------------------------------------------
+\newcommand{\projecttitle}[4]{%
+    {\fontsize{11.5}{13}\selectfont\color{emphasis}#1\par}
+    \smallskip\normalsize
+    \ifstrequal{#2}{}{}{\textbf{\color{accent}#2}\par\smallskip}
+    \ifstrequal{#3}{}{}{{\small\makebox[0.5\linewidth][l]{\cvDateMarker~#3}}}
+    \ifstrequal{#4}{}{}{{\small\makebox[0.5\linewidth][l]{\cvLocationMarker~#4}}}}
+% End of project formatting
+
+% Conditional compilation
+% -----------------------------------------------------------------------------
+% Conditional compilation for GitHub Actions and cli.
+% -----------------------------------------------------------------------------
+% 
+\newif\iffullcv
+% Default = Full CV (Local/Overleaf)
+\fullcvtrue
+% GitHub Action defines \MINIMALCV to disable private sections
+\ifdefined\MINIMALCV
+    \fullcvfalse
+\fi
+% End of conditional compilation
+
 \begin{document}
 
-\name{Md. Shakibul Islam}
-\tagline{\normalsize{Computer Science Engineer | Full Stack Developer}}
-\vspace{4mm}
-\personalinfo{
-    \email{shakibulislammobin@gmail.com}
-    \phone{+8801746 301800}
-    \github{siMobin}
-    \linkedin{md-shakibul-islam-858467272}
-    \printinfo{\faMapMarker}{Dhaka, Bangladesh}
-}
-\makecvheader
-\divider
+\input{sections/personal}
+
 \columnratio{0.6}
 
 \begin{paracol}{2}
 
-    % Work Experience
-    \cvsection{Work Experience}
-    \cvevent{Intern IT Executive}{Youth For Bangladesh \hfill October 2024 -- Present}{}{}
-    \begin{itemize}
-        \item Web application development and feature implementation.
-        \item Maintaining and updating existing web applications.
-        \item Managing IT systems and providing technical support.
-        \item Drafting official documents and organizational content.
-        \item Graphic design using Adobe Illustrator and Photoshop.
-        \item Video editing for promotional and social media content.
-        \item Capturing and managing photo and video content during organizational events.
-    \end{itemize}
+    % Left column
+    \input{sections/experience}
+    \input{sections/references}
 
-    \divider
-
-    \cvevent{Junior Graphic Designer}{Help The Children Foundation \hfill 2024 -- Present}{}{}
-    \begin{itemize}
-        \item Designed promotional graphics for digital and print media.
-        \item Created social media graphics and visual assets.
-        \item Produced videos for social media and organizational events.
-        \item Prepared and maintained official documents.
-    \end{itemize}
-
-    \divider
-
-    \cvevent{Full Stack Web Developer}{Self-employed \hfill 2023 -- Present}{}{}
-    \begin{itemize}
-        \item Designed and developed full-stack web applications.
-        \item Built responsive, user-friendly interfaces following modern UI/UX.
-        \item Implemented backend logic, APIs, authentication, and database management for real-world client projects.
-        \item Managed end-to-end project lifecycle including requirement analysis, development, deployment, and maintenance.
-        \item Communicated directly with clients to gather requirements, provide updates, and ensure satisfaction.
-    \end{itemize}
-    \vspace{4mm}
-
-    % Switch to right column
     \switchcolumn
 
-    % Skills
-    \cvsection{Skills}
-    \newcommand{\skilltag}[2]{\textbf{#1:} #2}
-
-    \skilltag{Languages}{PHP, TypeScript, JavaScript, Python, Java, C++, C}\\[0.5em]
-    \skilltag{Frontend}{HTML, CSS, SCSS, Next.js, Tailwind CSS, Vite}\\[0.5em]
-    \skilltag{Backend}{Laravel, Livewire, Filament}\\[0.5em]
-    \skilltag{Databases}{Microsoft SQL Server, MySQL, PostgreSQL, SQLite}\\[0.5em]
-    \skilltag{DevOps \& Tools}{Git, GitHub, Docker, CI/CD (GitHub Actions)}\\[0.5em]
-    \skilltag{Documentation}{Markdown, LaTeX}\\[0.5em]
-    \skilltag{Cloud \& Platform Services}{Supabase, Google Cloud, Cloudflare, Vercel}\\[0.5em]
-    \skilltag{Design Tools}{Photoshop, Illustrator, Adobe XD, Premiere Pro}\\[0.5em]
-    \skilltag{Operating Systems}{Windows, Linux}\\[0.5em]
-
-    \vspace{4mm}
-
-    % Education
-    \cvsection{Education}
-    \cvevent{B.Sc. in Computer Science and Engineering}{Stamford University Bangladesh}{}{}
-    \begin{itemize}[leftmargin=0cm, label={\color{primary}}, itemsep=0pt]
-        \item  \faGraduationCap\ Graduated: 2026 \hspace{3mm} \faMedal\ CGPA: 3.22/4.00
-    \end{itemize}
-
-    % Certifications
-    \cvsection{Certifications}
-    \cvachievement{\faCertificate}{Digital Marketing}{Future IT \& Language Training Institute, 2023}\\[0.5em]
-    \cvachievement{\faCertificate}{AI \& Machine Learning Boot Camp}{EATL Innovation Hub, Feb 2025}
-    \vspace{4mm}
-
-    % % Languages
-    % \cvsection{Languages}
-    % % \bfseries Bengali: Native \hfill English: Fluent
-    % \begin{itemize}[leftmargin=0cm, label={\color{primary}}, itemsep=0pt]
-    %     \item \textbf{Bengali}: Native \hspace{0.5cm} \textbf{English}: Fluent
-    % \end{itemize}
+    % Right column
+    \input{sections/skills}
+    \input{sections/education}
+    \input{sections/training}
 
 \end{paracol}
 
-% Projects
-\input{projects.tex}
-
+% Projects (full width)
+\iffullcv
+    \input{sections/projects}
+\fi
 
 
 \end{document}

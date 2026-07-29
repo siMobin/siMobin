@@ -1,0 +1,76 @@
+name: Build CV From Source
+
+on:
+  push:
+    paths:
+      - "CV/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ---------------------------
+      # Build Full CV
+      # ---------------------------
+      - name: Build Full CV
+        uses: xu-cheng/latex-action@v3
+        with:
+          working_directory: CV
+          root_file: main.tex
+          latexmk_use_xelatex: true
+          args: >
+            -jobname=main-full
+            -pdf
+            -pdflatex="xelatex %O '\input{main.tex}'"
+
+      # ---------------------------
+      # Build Minimal CV
+      # ---------------------------
+      - name: Build Minimal CV
+        uses: xu-cheng/latex-action@v3
+        with:
+          working_directory: CV
+          root_file: main.tex
+          latexmk_use_xelatex: true
+          args: >
+            -jobname=main
+            -pdf
+            -pdflatex="xelatex %O '\def\MINIMALCV{}\input{main.tex}'"
+
+      # ---------------------------
+      # Copy PDFs
+      # ---------------------------
+      - name: Copy PDFs
+        run: |
+          mkdir -p CV/pdf
+
+          cp CV/main.pdf CV/pdf/main.pdf
+          cp CV/main-full.pdf CV/pdf/main-full.pdf
+
+      # ---------------------------
+      # Commit changes
+      # ---------------------------
+      - name: Commit changes to repo
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add CV/pdf/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(cv): `update` (date=$(date -u +%Y%m%d))"
+          git push
