@@ -29,7 +29,6 @@ jobs:
           args: >
             -jobname=main-full
             -pdf
-            -pdflatex="xelatex %O '\input{main.tex}'"
 
       # ---------------------------
       # Build Minimal CV
@@ -43,7 +42,7 @@ jobs:
           args: >
             -jobname=main
             -pdf
-            -pdflatex="xelatex %O '\def\MINIMALCV{}\input{main.tex}'"
+            -pdflatex="xelatex %O '\def\MINIMALCV{}\input{%S}'"
 
       # ---------------------------
       # Copy PDFs
@@ -52,8 +51,8 @@ jobs:
         run: |
           mkdir -p CV/pdf
 
-          cp CV/main.pdf CV/pdf/main.pdf
           cp CV/main-full.pdf CV/pdf/main-full.pdf
+          cp CV/main.pdf CV/pdf/main.pdf
 
       # ---------------------------
       # Commit changes
