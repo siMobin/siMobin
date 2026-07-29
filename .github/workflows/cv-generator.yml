@@ -2,6 +2,8 @@ name: Build CV From Source
 
 on:
   push:
+    branches:
+      - main
     paths:
       - "CV/**"
       - "**/cv-generator.yml"
@@ -28,7 +30,7 @@ jobs:
           root_file: main.tex
           latexmk_use_xelatex: true
           args: >
-            -jobname=main-full
+            -jobname=${{ github.actor }}-full
             -pdf
 
       # ---------------------------
@@ -43,7 +45,7 @@ jobs:
           pre_compile: |
             echo '\def\MINIMALCV{}\input{main.tex}' > minimal.tex
           args: >
-            -jobname=main
+            -jobname=${{ github.actor }}-minimal
             -pdf
 
       # ---------------------------
@@ -53,8 +55,7 @@ jobs:
         run: |
           mkdir -p CV/pdf
 
-          cp CV/main-full.pdf CV/pdf/main-full.pdf
-          cp CV/main.pdf CV/pdf/main.pdf
+          cp CV/*.pdf CV/pdf/
 
       # ---------------------------
       # Commit changes
