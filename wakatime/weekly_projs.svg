@@ -1,9 +1,9 @@
-<svg width="363" height="282.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+<svg width="363" height="242.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
   <rect
     x="1.0"
     y="1.0"
     width="361"
-    height="280.5"
+    height="240.5"
     fill="none" stroke="none"
     
     rx="10"
@@ -13,70 +13,50 @@
   <g transform="translate(0.0, 10) scale(1)">
       <text x="177.5" y="22.5" font-size="12" text-anchor="middle" fill="#37b7a8" font-weight="bold">This week, I mostly worked on siMobin</text>
     
-            <rect x="30" y="85.67966826125077" width="30" height="20.82033173874923" fill="#005aff" rx="2" ry="2">
-              <title>open-rgb: 31m</title>
-            </rect>
-           <text x="45.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text> <text x="90.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text> 
-            <rect x="120" y="102.98468709842398" width="30" height="3.5153129015760203" fill="#0079ff" rx="2" ry="2">
-              <title>3jsdemo: 05m</title>
-            </rect>
-           
-            <rect x="120" y="99.84329394996246" width="30" height="3.141393148461523" fill="#055bf9" rx="2" ry="2">
-              <title>projects: 04m</title>
-            </rect>
-           
-            <rect x="120" y="67.94121340978944" width="30" height="31.90208054017302" fill="#0061e5" rx="2" ry="2">
-              <title>user: 48m</title>
-            </rect>
-           
-            <rect x="120" y="59.27731817674867" width="30" height="8.663895233040767" fill="#1e63d3" rx="2" ry="2">
-              <title>siMobin: 13m</title>
-            </rect>
-           <text x="135.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text> <text x="180.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text> 
-            <rect x="210" y="64.4038384458818" width="30" height="42.09616155411819" fill="#1e63d3" rx="2" ry="2">
+            <rect x="30" y="78.32796201675319" width="30" height="28.172037983246813" fill="#004ff4" rx="2" ry="2">
               <title>siMobin: 01:04</title>
             </rect>
-           <text x="225.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text> 
-            <rect x="255" y="89.90801915756981" width="30" height="16.59198084243019" fill="#007fff" rx="2" ry="2">
+           <text x="45.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text> 
+            <rect x="75" y="105.77218745570984" width="30" height="0.7278125442901665" fill="#004ff4" rx="2" ry="2">
+              <title>siMobin: 01m</title>
+            </rect>
+           
+            <rect x="75" y="94.66832674125192" width="30" height="11.103860714457918" fill="#0072fd" rx="2" ry="2">
               <title>wakatime-stats-pyth…: 25m</title>
             </rect>
            
-            <rect x="255" y="47.587536317527764" width="30" height="42.32048284004205" fill="#0b82ff" rx="2" ry="2">
+            <rect x="75" y="66.34616609707382" width="30" height="28.322160644178098" fill="#1081ee" rx="2" ry="2">
               <title>wakatime-stats: 01:04</title>
             </rect>
-           
-            <rect x="255" y="46.49999999999999" width="30" height="1.0875363175277681" fill="#1e63d3" rx="2" ry="2">
-              <title>siMobin: 01m</title>
+           <text x="90.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text> 
+            <rect x="120" y="101.1816806373985" width="30" height="5.318319362601493" fill="#004ff4" rx="2" ry="2">
+              <title>siMobin: 12m</title>
             </rect>
-           <text x="270.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text> 
-            <rect x="300" y="99.58907262013645" width="30" height="6.910927379863556" fill="#1e63d3" rx="2" ry="2">
-              <title>siMobin: 10m</title>
+           <text x="135.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text> 
+            <rect x="165" y="46.5" width="30" height="60.0" fill="#004ff4" rx="2" ry="2">
+              <title>siMobin: 02:16</title>
             </rect>
-           <text x="315.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text> 
-            <circle cx="51.5" cy="150.5" r="5" fill="#0079ff" />
-            <text x="63.5" y="154.5" font-size="10" fill="#37b7a8">3jsdemo</text>
+           <text x="180.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text> 
+            <rect x="210" y="64.65057414667004" width="30" height="41.84942585332997" fill="#004ff4" rx="2" ry="2">
+              <title>siMobin: 01:35</title>
+            </rect>
+           <text x="225.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text> 
+            <rect x="255" y="94.15372797180625" width="30" height="12.34627202819375" fill="#004ff4" rx="2" ry="2">
+              <title>siMobin: 28m</title>
+            </rect>
+           <text x="270.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text> <text x="315.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text> 
+            <circle cx="51.5" cy="150.5" r="5" fill="#004ff4" />
+            <text x="63.5" y="154.5" font-size="10" fill="#37b7a8">siMobin</text>
            
-            <circle cx="220.0" cy="150.5" r="5" fill="#055bf9" />
-            <text x="232.0" y="154.5" font-size="10" fill="#37b7a8">projects</text>
+            <circle cx="220.0" cy="150.5" r="5" fill="#0091fb" />
+            <text x="232.0" y="154.5" font-size="10" fill="#37b7a8">user</text>
            
-            <circle cx="51.5" cy="170.5" r="5" fill="#005aff" />
-            <text x="63.5" y="174.5" font-size="10" fill="#37b7a8">open-rgb</text>
+            <circle cx="51.5" cy="170.5" r="5" fill="#0072fd" />
+            <text x="63.5" y="174.5" font-size="10" fill="#37b7a8">wakatime-stats-pyth…</text>
            
-            <circle cx="220.0" cy="170.5" r="5" fill="#007fff" />
-            <text x="232.0" y="174.5" font-size="10" fill="#37b7a8">wakatime-stats-pyth…</text>
-           
-            <circle cx="51.5" cy="190.5" r="5" fill="#0076e0" />
-            <text x="63.5" y="194.5" font-size="10" fill="#37b7a8">Open WebUI</text>
-           
-            <circle cx="220.0" cy="190.5" r="5" fill="#0061e5" />
-            <text x="232.0" y="194.5" font-size="10" fill="#37b7a8">user</text>
-           
-            <circle cx="51.5" cy="210.5" r="5" fill="#0b82ff" />
-            <text x="63.5" y="214.5" font-size="10" fill="#37b7a8">wakatime-stats</text>
-           
-            <circle cx="220.0" cy="210.5" r="5" fill="#1e63d3" />
-            <text x="232.0" y="214.5" font-size="10" fill="#37b7a8">siMobin</text>
+            <circle cx="220.0" cy="170.5" r="5" fill="#1081ee" />
+            <text x="232.0" y="174.5" font-size="10" fill="#37b7a8">wakatime-stats</text>
           
-    <text x="177.5" y="242.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 4 hrs 30 mins</text>
+    <text x="177.5" y="202.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 7 hrs 8 mins</text>
     </g>
 </svg>
