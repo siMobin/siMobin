@@ -12,7 +12,7 @@
   
   <g transform="translate(25.0, 10) scale(1)">
       <text x="50%" y="22" text-anchor="middle" font-size="14" fill="#37b7a8" font-family="Calibri">
-    <tspan font-weight="bold">0 hrs 10 mins</tspan>
+    <tspan font-weight="bold">0 hrs 0 mins</tspan>
     <tspan font-weight="normal"> Today</tspan>
   </text>
   <g transform="rotate(-90, 150.0, 160)">
@@ -42,17 +42,18 @@
   <textPath href="#arcLabel-4" startOffset="50%" text-anchor="middle">Excellent</textPath>
 </text>
 </g>
-  <polygon points="150.29605012547964,156.01097075428075 74.20844433133423,154.37504761588704 149.70394987452036,163.98902924571925" fill="0050bf" />
+  <polygon points="150.0,156.0 74.0,160.0 150.0,164.0" fill="0050bf" />
 <circle cx="150.0" cy="160" r="4" fill="0050bf"/>
-  
+  <line x1="198.56587283437315" y1="129.21679035845196" x2="236.57394722649127" y2="105.12558281289262" stroke="0060e6" stroke-width="2" />
+<text x="188.00807439211812" y="135.90879245444066" font-size="12" font-weight="bold" fill="0060e6" font-family="Calibri" text-anchor="middle">⚑</text>
   <g transform="translate(110.0, 202)">
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#37b7a8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"></line><polyline points="19 12 12 19 5 12"></polyline></svg>
     <text x="20" y="12" font-size="13" fill="#37b7a8" font-family="Calibri">
-      93% decrease
+      100% decrease
     </text>
   </g>
   <text x="50%" y="230" text-anchor="middle" font-size="13" fill="#37b7a8" font-family="Calibri">
-    <tspan font-weight="bold">2 hrs 25 mins</tspan>
+    <tspan font-weight="bold">2 hrs 29 mins</tspan>
     <tspan font-weight="normal"> Daily Average</tspan>
   </text>
   <text x="50%" y="250" text-anchor="middle" font-size="13" fill="#37b7a8" font-family="Calibri">
