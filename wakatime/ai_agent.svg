@@ -15,12 +15,12 @@
   
     <circle cx="200" cy="105" r="55" fill="none" stroke="#001533" stroke-width="26" />
     
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#67e236" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#6736e2" stroke-width="26"
       stroke-dasharray="261.35138205993127 84.223809834946"
       stroke-dashoffset="0"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#e236ca" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e23636" stroke-width="26"
       stroke-dasharray="36.175194303796424 309.3999975910808"
       stroke-dashoffset="-261.35138205993127"
       transform="rotate(-90 200 105)"
@@ -30,7 +30,7 @@
       stroke-dashoffset="-297.5265763637277"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#e2ca36" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e236ca" stroke-width="26"
       stroke-dasharray="13.265982976240252 332.309208918637"
       stroke-dashoffset="-324.3935947670683"
       transform="rotate(-90 200 105)"
@@ -40,12 +40,12 @@
       stroke-dashoffset="-337.65957774330855"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#e23636" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#67e236" stroke-width="26"
       stroke-dasharray="3.0050016686511065 342.57019022622615"
       stroke-dashoffset="-341.0415134191772"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#6736e2" stroke-width="26"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e2ca36" stroke-width="26"
       stroke-dasharray="1.528676807048995 344.04651508782825"
       stroke-dashoffset="-344.0465150878283"
       transform="rotate(-90 200 105)"
@@ -57,11 +57,11 @@
       lines of code
     </text>
   
-      <rect x="20" y="180" width="10" height="10" fill="#67e236" rx="2" />
+      <rect x="20" y="180" width="10" height="10" fill="#6736e2" rx="2" />
       <text x="36" y="190" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Deepseek</tspan> 25K lines (75.6%) · $17.08
       </text> 
-      <rect x="20" y="204" width="10" height="10" fill="#e236ca" rx="2" />
+      <rect x="20" y="204" width="10" height="10" fill="#e23636" rx="2" />
       <text x="36" y="214" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Hy</tspan> 3.5K lines (10.5%) · $70.11
       </text> 
@@ -69,7 +69,7 @@
       <text x="36" y="238" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">GPT</tspan> 2.6K lines (7.8%) · $123.43
       </text> 
-      <rect x="20" y="252" width="10" height="10" fill="#e2ca36" rx="2" />
+      <rect x="20" y="252" width="10" height="10" fill="#e236ca" rx="2" />
       <text x="36" y="262" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Nemotron</tspan> 1.3K lines (3.8%) · $13.59
       </text> 
@@ -77,11 +77,11 @@
       <text x="236" y="190" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Glm</tspan> 323 lines (1.0%) · $0.10
       </text> 
-      <rect x="220" y="204" width="10" height="10" fill="#e23636" rx="2" />
+      <rect x="220" y="204" width="10" height="10" fill="#67e236" rx="2" />
       <text x="236" y="214" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Gemini</tspan> 287 lines (0.9%) · $0.03
       </text> 
-      <rect x="220" y="228" width="10" height="10" fill="#6736e2" rx="2" />
+      <rect x="220" y="228" width="10" height="10" fill="#e2ca36" rx="2" />
       <text x="236" y="238" fill="#37b7a8" font-size="12" font-family="Calibri">
         <tspan font-weight="bold">Sonnet</tspan> 146 lines (0.4%) · $0.00
       </text>
