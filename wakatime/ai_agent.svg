@@ -15,84 +15,84 @@
   
     <circle cx="200" cy="105" r="55" fill="none" stroke="#001533" stroke-width="26" />
     
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#36e2e2" stroke-width="26"
-      stroke-dasharray="207.41824043302069 138.15695146185658"
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#36e261" stroke-width="26"
+      stroke-dasharray="198.4836826638448 147.09150923103246"
       stroke-dashoffset="0"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
     <circle cx="200" cy="105" r="55" fill="none" stroke="#e2b736" stroke-width="26"
-      stroke-dasharray="63.3863362054037 282.18885568947354"
-      stroke-dashoffset="-207.41824043302069"
-      transform="rotate(-90 200 105)"
-      stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#36e261" stroke-width="26"
-      stroke-dasharray="28.709988409762687 316.8652034851146"
-      stroke-dashoffset="-270.8045766384244"
-      transform="rotate(-90 200 105)"
-      stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#e236b7" stroke-width="26"
-      stroke-dasharray="21.322671565687717 324.25252032918957"
-      stroke-dashoffset="-299.5145650481871"
-      transform="rotate(-90 200 105)"
-      stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#e23636" stroke-width="26"
-      stroke-dasharray="11.010342877839527 334.5648490170377"
-      stroke-dashoffset="-320.8372366138748"
-      transform="rotate(-90 200 105)"
-      stroke-linecap="butt" />
-    <circle cx="200" cy="105" r="55" fill="none" stroke="#8c36e2" stroke-width="26"
-      stroke-dasharray="9.83036650904465 335.7448253858326"
-      stroke-dashoffset="-331.8475794917143"
+      stroke-dasharray="75.31104356833758 270.26414832653967"
+      stroke-dashoffset="-198.4836826638448"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
     <circle cx="200" cy="105" r="55" fill="none" stroke="#3661e2" stroke-width="26"
-      stroke-dasharray="2.6840307543714466 342.8911611405058"
-      stroke-dashoffset="-341.677946000759"
+      stroke-dasharray="27.473303297287117 318.1018885975901"
+      stroke-dashoffset="-273.79472623218237"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#36e2e2" stroke-width="26"
+      stroke-dasharray="20.404195733962013 325.17099616091525"
+      stroke-dashoffset="-301.26802952946946"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
     <circle cx="200" cy="105" r="55" fill="none" stroke="#8ce236" stroke-width="26"
-      stroke-dasharray="1.213215139746846 344.3619767551304"
-      stroke-dashoffset="-344.36197675513046"
+      stroke-dasharray="10.766672261802245 334.80851963307504"
+      stroke-dashoffset="-321.67222526343147"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e236b7" stroke-width="26"
+      stroke-dasharray="9.406922663007428 336.16826923186983"
+      stroke-dashoffset="-332.4388975252337"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#e23636" stroke-width="26"
+      stroke-dasharray="2.568415908834657 343.0067759860426"
+      stroke-dashoffset="-341.84582018824113"
+      transform="rotate(-90 200 105)"
+      stroke-linecap="butt" />
+    <circle cx="200" cy="105" r="55" fill="none" stroke="#8c36e2" stroke-width="26"
+      stroke-dasharray="1.160955797801424 344.41423609707584"
+      stroke-dashoffset="-344.4142360970758"
       transform="rotate(-90 200 105)"
       stroke-linecap="butt" />
     <text x="200" y="101" text-anchor="middle" fill="#37b7a8" font-size="24" font-weight="bold" font-family="Calibri">
-      41.6K
+      43.5K
     </text>
     <text x="200" y="117" text-anchor="middle" fill="#37b7a8" font-size="14" font-family="Calibri">
       lines of code
     </text>
   
-      <rect x="20" y="180" width="10" height="10" fill="#36e2e2" rx="2" />
+      <rect x="20" y="180" width="10" height="10" fill="#36e261" rx="2" />
       <text x="36" y="190" fill="#37b7a8" font-size="12" font-family="Calibri">
-        <tspan font-weight="bold">Deepseek</tspan> 25K lines (60.0%) · $17.08
+        <tspan font-weight="bold">Deepseek</tspan> 25K lines (57.4%) · $17.08
       </text> 
       <rect x="20" y="204" width="10" height="10" fill="#e2b736" rx="2" />
       <text x="36" y="214" fill="#37b7a8" font-size="12" font-family="Calibri">
-        <tspan font-weight="bold">Opencode-Cli</tspan> 7.6K lines (18.3%) · $433.42
+        <tspan font-weight="bold">Opencode-Cli</tspan> 9.5K lines (21.8%) · $545.42
       </text> 
-      <rect x="20" y="228" width="10" height="10" fill="#36e261" rx="2" />
+      <rect x="20" y="228" width="10" height="10" fill="#3661e2" rx="2" />
       <text x="36" y="238" fill="#37b7a8" font-size="12" font-family="Calibri">
-        <tspan font-weight="bold">Hy</tspan> 3.5K lines (8.3%) · $70.11
+        <tspan font-weight="bold">Hy</tspan> 3.5K lines (8.0%) · $70.11
       </text> 
-      <rect x="20" y="252" width="10" height="10" fill="#e236b7" rx="2" />
+      <rect x="20" y="252" width="10" height="10" fill="#36e2e2" rx="2" />
       <text x="36" y="262" fill="#37b7a8" font-size="12" font-family="Calibri">
-        <tspan font-weight="bold">GPT</tspan> 2.6K lines (6.2%) · $123.43
+        <tspan font-weight="bold">GPT</tspan> 2.6K lines (5.9%) · $123.43
       </text> 
-      <rect x="220" y="180" width="10" height="10" fill="#e23636" rx="2" />
+      <rect x="220" y="180" width="10" height="10" fill="#8ce236" rx="2" />
       <text x="236" y="190" fill="#37b7a8" font-size="12" font-family="Calibri">
-        <tspan font-weight="bold">Nemotron</tspan> 1.3K lines (3.2%) · $30.47
+        <tspan font-weight="bold">Nemotron</tspan> 1.4K lines (3.1%) · $36.39
       </text> 
-      <rect x="220" y="204" width="10" height="10" fill="#8c36e2" rx="2" />
+      <rect x="220" y="204" width="10" height="10" fill="#e236b7" rx="2" />
       <text x="236" y="214" fill="#37b7a8" font-size="12" font-family="Calibri">
-        <tspan font-weight="bold">Gemini</tspan> 1.2K lines (2.8%) · $0.46
+        <tspan font-weight="bold">Gemini</tspan> 1.2K lines (2.7%) · $0.46
       </text> 
-      <rect x="220" y="228" width="10" height="10" fill="#3661e2" rx="2" />
+      <rect x="220" y="228" width="10" height="10" fill="#e23636" rx="2" />
       <text x="236" y="238" fill="#37b7a8" font-size="12" font-family="Calibri">
-        <tspan font-weight="bold">Glm</tspan> 323 lines (0.8%) · $0.10
+        <tspan font-weight="bold">Glm</tspan> 323 lines (0.7%) · $0.10
       </text> 
-      <rect x="220" y="252" width="10" height="10" fill="#8ce236" rx="2" />
+      <rect x="220" y="252" width="10" height="10" fill="#8c36e2" rx="2" />
       <text x="236" y="262" fill="#37b7a8" font-size="12" font-family="Calibri">
-        <tspan font-weight="bold">Sonnet</tspan> 146 lines (0.4%) · $0.00
+        <tspan font-weight="bold">Sonnet</tspan> 146 lines (0.3%) · $0.00
       </text>
     </g>
 </svg>

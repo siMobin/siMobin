@@ -13,50 +13,43 @@
   <g transform="translate(0.0, 10) scale(1)">
       <text x="177.5" y="22.5" font-size="12" text-anchor="middle" fill="#37b7a8" font-weight="bold">This week, I mostly worked on hcf-admin</text>
     
-            <rect x="30" y="46.5" width="30" height="60.0" fill="#006fff" rx="2" ry="2">
-              <title>hcf-admin: 06:29</title>
+            <rect x="30" y="102.42671704159632" width="30" height="4.073282958403675" fill="#0068d4" rx="2" ry="2">
+              <title>yfbd-web: 25m</title>
             </rect>
-           <text x="45.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text> 
-            <rect x="75" y="60.07632676467834" width="30" height="46.42367323532166" fill="#006fff" rx="2" ry="2">
-              <title>hcf-admin: 05:01</title>
+           
+            <rect x="30" y="90.74454754989955" width="30" height="11.682169491696765" fill="#006cf1" rx="2" ry="2">
+              <title>hcf-admin: 01:11</title>
             </rect>
-           <text x="90.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text> 
-            <rect x="120" y="57.898064912910286" width="30" height="48.601935087089714" fill="#006fff" rx="2" ry="2">
-              <title>hcf-admin: 05:15</title>
+           <text x="45.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text> <text x="90.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text> 
+            <rect x="120" y="105.62064890727152" width="30" height="0.8793510927284779" fill="#0068d4" rx="2" ry="2">
+              <title>yfbd-web: 05m</title>
             </rect>
            <text x="135.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text> 
-            <rect x="165" y="101.22084679785245" width="30" height="5.279153202147561" fill="#008dff" rx="2" ry="2">
-              <title>yfbd-web: 34m</title>
-            </rect>
-           
-            <rect x="165" y="96.41333477198549" width="30" height="4.807512025866954" fill="#0089ff" rx="2" ry="2">
-              <title>Md_Fahad_Hossain: 31m</title>
+            <rect x="165" y="89.85801804774702" width="30" height="16.641981952252973" fill="#006cf1" rx="2" ry="2">
+              <title>hcf-admin: 01:42</title>
             </rect>
            <text x="180.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text> 
-            <rect x="210" y="101.17765467945028" width="30" height="5.322345320549719" fill="#0250f2" rx="2" ry="2">
-              <title>HelpTheChildrenFoun…: 34m</title>
-            </rect>
-           
-            <rect x="210" y="88.84187926407374" width="30" height="12.335775415376542" fill="#006fff" rx="2" ry="2">
-              <title>hcf-admin: 01:19</title>
+            <rect x="210" y="84.35495894235032" width="30" height="22.145041057649674" fill="#006cf1" rx="2" ry="2">
+              <title>hcf-admin: 02:16</title>
             </rect>
            <text x="225.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text> 
-            <rect x="255" y="47.96135132956388" width="30" height="58.53864867043612" fill="#006fff" rx="2" ry="2">
-              <title>hcf-admin: 06:19</title>
+            <rect x="255" y="98.39035509884597" width="30" height="8.109644901154033" fill="#253eff" rx="2" ry="2">
+              <title>meili: 49m</title>
+            </rect>
+           
+            <rect x="255" y="46.50000000000001" width="30" height="51.890355098845966" fill="#006cf1" rx="2" ry="2">
+              <title>hcf-admin: 05:19</title>
             </rect>
            <text x="270.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text> <text x="315.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text> 
-            <circle cx="25.5" cy="150.5" r="5" fill="#0250f2" />
-            <text x="37.5" y="154.5" font-size="10" fill="#37b7a8">HelpTheChildrenFoun…</text>
+            <circle cx="129.5" cy="150.5" r="5" fill="#0068d4" />
+            <text x="141.5" y="154.5" font-size="10" fill="#37b7a8">yfbd-web</text>
            
-            <circle cx="220.0" cy="150.5" r="5" fill="#008dff" />
-            <text x="232.0" y="154.5" font-size="10" fill="#37b7a8">yfbd-web</text>
+            <circle cx="220.0" cy="150.5" r="5" fill="#253eff" />
+            <text x="232.0" y="154.5" font-size="10" fill="#37b7a8">meili</text>
            
-            <circle cx="25.5" cy="170.5" r="5" fill="#006fff" />
-            <text x="37.5" y="174.5" font-size="10" fill="#37b7a8">hcf-admin</text>
-           
-            <circle cx="220.0" cy="170.5" r="5" fill="#0089ff" />
-            <text x="232.0" y="174.5" font-size="10" fill="#37b7a8">Md_Fahad_Hossain</text>
+            <circle cx="129.5" cy="170.5" r="5" fill="#006cf1" />
+            <text x="141.5" y="174.5" font-size="10" fill="#37b7a8">hcf-admin</text>
           
-    <text x="177.5" y="202.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 26 hrs 4 mins</text>
+    <text x="177.5" y="202.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 11 hrs 50 mins</text>
     </g>
 </svg>
