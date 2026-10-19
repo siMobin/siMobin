@@ -25,7 +25,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
 
-      # Get GitHub user's full display name
+      # Get GitHub user's full display name if available...
       - name: Get user's full name
         id: github-user
         env:
