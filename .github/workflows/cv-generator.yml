@@ -25,6 +25,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
 
+      # Get GitHub user's full display name
+      - name: Get user's full name
+        id: github-user
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.actor }}
+        run: |
+          NAME=$(gh api "users/$GH_USERNAME" --jq '.name // empty')
+          if [ -z "$NAME" ]; then
+            NAME="$GH_USERNAME"
+          fi
+
+          # Make the name safe for PDF filenames
+          SAFE_NAME=$(echo "$NAME" | sed 's/[^a-zA-Z0-9_-]/-/g')
+
+          echo "name=$SAFE_NAME" >> "$GITHUB_OUTPUT"
+          echo "GitHub full name: $NAME"
+          echo "Filename name: $SAFE_NAME"
+
       # ---------------------------
       # Build Full CV
       # ---------------------------
@@ -35,7 +54,7 @@ jobs:
           root_file: main.tex
           latexmk_use_xelatex: true
           args: >
-            -jobname=${{ github.actor }}-full
+            -jobname=${{ steps.github-user.outputs.name }}-full
             -pdf
 
       # ---------------------------
@@ -50,7 +69,7 @@ jobs:
           pre_compile: |
             echo '\def\MINIMALCV{}\input{main.tex}' > minimal.tex
           args: >
-            -jobname=${{ github.actor }}-minimal
+            -jobname=${{ steps.github-user.outputs.name }}-minimal
             -pdf
 
       # ---------------------------

@@ -71,9 +71,9 @@ System running on overthinking, frustration and
 waiting for her appearance
 
 $ cat contact.me
-Email: shakibulislammobin@gmail.com
-WhatsApp: +8801746-301800
+WhatsApp: @siMobin
 Discord: shakibulislammobin
+Email: shakibulislammobin@gmail.com
 ```
 
 <details>
@@ -189,8 +189,11 @@ Permission denied: Missing dependency — life partner not found
 <img loading="lazy" src="local/badges/github-actions.svg" height="20"/>
 <img loading="lazy" src="local/badges/docker.svg" height="20"/>
 <img loading="lazy" src="local/badges/vs-code.svg" height="20"/>
-<img loading="lazy" src="local/badges/microsoft-azure.svg" height="20"/>
+<img loading="lazy" src="local/badges/cloudflare.svg" height="20"/>
+<img loading="lazy" src="local/badges/aws.svg" height="20"/>
 <img loading="lazy" src="local/badges/google-cloud.svg" height="20"/>
+<img loading="lazy" src="local/badges/microsoft-azure.svg" height="20"/>
+<img loading="lazy" src="local/badges/supabase.svg" height="20"/>
 <img loading="lazy" src="local/badges/vercel.svg" height="20"/>
 <img loading="lazy" src="local/badges/photoshop.svg" height="20"/>
 <img loading="lazy" src="local/badges/illustrator.svg" height="20"/>
