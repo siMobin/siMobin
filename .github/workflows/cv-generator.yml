@@ -38,7 +38,7 @@ jobs:
           fi
 
           # Make the name safe for PDF filenames
-          SAFE_NAME=$(echo "$NAME" | sed 's/[^a-zA-Z0-9_-]/-/g')
+          SAFE_NAME=$(echo "$NAME" | sed 's/[^a-zA-Z0-9_-]/_/g')
 
           echo "name=$SAFE_NAME" >> "$GITHUB_OUTPUT"
           echo "GitHub full name: $NAME"
