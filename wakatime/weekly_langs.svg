@@ -1,9 +1,9 @@
-<svg width="363" height="242.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
+<svg width="363" height="302.5" xmlns="http://www.w3.org/2000/svg" style="font-family:Calibri,sans-serif;">
   <rect
     x="1.0"
     y="1.0"
     width="361"
-    height="240.5"
+    height="300.5"
     fill="none" stroke="none"
     
     rx="10"
@@ -11,36 +11,191 @@
   />
   
   <g transform="translate(0.0, 10) scale(1)">
-      <text x="177.5" y="22.5" font-size="12" text-anchor="middle" fill="#37b7a8" font-weight="bold">This week, I mostly wrote in TeX</text>
-    <text x="45.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text> <text x="90.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text> 
-            <rect x="120" y="88.59589611590775" width="30" height="17.904103884092255" fill="#2494d8" rx="2" ry="2">
-              <title>Markdown: 34m</title>
+      <text x="177.5" y="22.5" font-size="12" text-anchor="middle" fill="#37b7a8" font-weight="bold">This week, I mostly wrote in Blade Template</text>
+    
+            <rect x="30" y="100.46130691657552" width="30" height="6.038693083424473" fill="#2040ff" rx="2" ry="2">
+              <title>PHP: 34m</title>
             </rect>
            
-            <rect x="120" y="86.20091290544266" width="30" height="2.3949832104650826" fill="#1865ff" rx="2" ry="2">
+            <rect x="30" y="99.61864415208967" width="30" height="0.8426627644858442" fill="#2c81df" rx="2" ry="2">
               <title>Git: 04m</title>
             </rect>
            
-            <rect x="120" y="76.36139017263157" width="30" height="9.839522732811087" fill="#0b61e9" rx="2" ry="2">
-              <title>YAML: 19m</title>
+            <rect x="30" y="98.2426807414709" width="30" height="1.3759634106187666" fill="#0051f1" rx="2" ry="2">
+              <title>Python: 07m</title>
             </rect>
            
-            <rect x="120" y="46.5" width="30" height="29.861390172631577" fill="#0095f4" rx="2" ry="2">
-              <title>TeX: 57m</title>
+            <rect x="30" y="97.72369439768981" width="30" height="0.5189863437810968" fill="#0689ff" rx="2" ry="2">
+              <title>Bash: 02m</title>
             </rect>
-           <text x="135.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text> <text x="180.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text> <text x="225.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text> <text x="270.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text> <text x="315.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text> 
-            <circle cx="94.0" cy="150.5" r="5" fill="#2494d8" />
-            <text x="106.0" y="154.5" font-size="10" fill="#37b7a8">Markdown</text>
            
-            <circle cx="178.0" cy="150.5" r="5" fill="#1865ff" />
-            <text x="190.0" y="154.5" font-size="10" fill="#37b7a8">Git</text>
+            <rect x="30" y="90.28844847794615" width="30" height="7.435245919743658" fill="#2248ff" rx="2" ry="2">
+              <title>Blade Tem…: 42m</title>
+            </rect>
            
-            <circle cx="262.0" cy="150.5" r="5" fill="#0b61e9" />
-            <text x="274.0" y="154.5" font-size="10" fill="#37b7a8">YAML</text>
+            <rect x="30" y="89.75816983760302" width="30" height="0.5302786403431337" fill="#008df7" rx="2" ry="2">
+              <title>JSON: 03m</title>
+            </rect>
            
-            <circle cx="94.0" cy="170.5" r="5" fill="#0095f4" />
-            <text x="106.0" y="174.5" font-size="10" fill="#37b7a8">TeX</text>
+            <rect x="30" y="89.51262382215276" width="30" height="0.24554601545026056" fill="#2154e2" rx="2" ry="2">
+              <title>Git Config: 01m</title>
+            </rect>
+           
+            <rect x="30" y="84.73753287308935" width="30" height="4.775090949063405" fill="#2085da" rx="2" ry="2">
+              <title>Markdown: 27m</title>
+            </rect>
+           
+            <rect x="30" y="79.93335109578426" width="30" height="4.804181777305087" fill="#003fff" rx="2" ry="2">
+              <title>Text: 27m</title>
+            </rect>
+           
+            <rect x="30" y="79.54220759131948" width="30" height="0.3911435044647722" fill="#0089fb" rx="2" ry="2">
+              <title>YAML: 02m</title>
+            </rect>
+           <text x="45.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Fri</text> 
+            <rect x="75" y="84.86041997396629" width="30" height="21.63958002603372" fill="#2040ff" rx="2" ry="2">
+              <title>PHP: 02:03</title>
+            </rect>
+           
+            <rect x="75" y="83.85955974085643" width="30" height="1.000860233109862" fill="#2c81df" rx="2" ry="2">
+              <title>Git: 05m</title>
+            </rect>
+           
+            <rect x="75" y="83.04038846377813" width="30" height="0.8191712770782908" fill="#0689ff" rx="2" ry="2">
+              <title>Bash: 04m</title>
+            </rect>
+           
+            <rect x="75" y="57.327407924998084" width="30" height="25.71298053878004" fill="#2248ff" rx="2" ry="2">
+              <title>Blade Tem…: 02:26</title>
+            </rect>
+           
+            <rect x="75" y="46.73717333338794" width="30" height="10.590234591610145" fill="#2085da" rx="2" ry="2">
+              <title>Markdown: 01:00</title>
+            </rect>
+           
+            <rect x="75" y="46.5" width="30" height="0.23717333338794203" fill="#0089fb" rx="2" ry="2">
+              <title>YAML: 01m</title>
+            </rect>
+           <text x="90.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sat</text> 
+            <rect x="120" y="104.2780563470971" width="30" height="2.221943652902888" fill="#2040ff" rx="2" ry="2">
+              <title>PHP: 12m</title>
+            </rect>
+           
+            <rect x="120" y="102.17674426122416" width="30" height="2.101312085872942" fill="#2c81df" rx="2" ry="2">
+              <title>Git: 11m</title>
+            </rect>
+           
+            <rect x="120" y="100.22674602381709" width="30" height="1.9499982374070781" fill="#0689ff" rx="2" ry="2">
+              <title>Bash: 11m</title>
+            </rect>
+           
+            <rect x="120" y="91.93006755338499" width="30" height="8.296678470432102" fill="#2248ff" rx="2" ry="2">
+              <title>Blade Tem…: 47m</title>
+            </rect>
+           
+            <rect x="120" y="91.06291571777976" width="30" height="0.8671518356052255" fill="#008ef9" rx="2" ry="2">
+              <title>JavaScript: 04m</title>
+            </rect>
+           
+            <rect x="120" y="91.01005255744919" width="30" height="0.05286316033057174" fill="#0089fb" rx="2" ry="2">
+              <title>YAML: 00m</title>
+            </rect>
+           <text x="135.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Sun</text> 
+            <rect x="165" y="90.95908509871764" width="30" height="15.540914901282362" fill="#2040ff" rx="2" ry="2">
+              <title>PHP: 01:28</title>
+            </rect>
+           
+            <rect x="165" y="90.11762177505832" width="30" height="0.8414633236593068" fill="#2c81df" rx="2" ry="2">
+              <title>Git: 04m</title>
+            </rect>
+           
+            <rect x="165" y="89.43026319388565" width="30" height="0.6873585811726699" fill="#124fff" rx="2" ry="2">
+              <title>CSS: 03m</title>
+            </rect>
+           
+            <rect x="165" y="75.35693142957695" width="30" height="14.073331764308708" fill="#2248ff" rx="2" ry="2">
+              <title>Blade Tem…: 01:20</title>
+            </rect>
+           
+            <rect x="165" y="74.74600063277816" width="30" height="0.6109307967987802" fill="#008df7" rx="2" ry="2">
+              <title>JSON: 03m</title>
+            </rect>
+           
+            <rect x="165" y="74.03882202331332" width="30" height="0.707178609464846" fill="#2154e2" rx="2" ry="2">
+              <title>Git Config: 04m</title>
+            </rect>
+           
+            <rect x="165" y="69.59926148087936" width="30" height="4.4395605424339495" fill="#2085da" rx="2" ry="2">
+              <title>Markdown: 25m</title>
+            </rect>
+           
+            <rect x="165" y="69.50771196569481" width="30" height="0.09154951518455517" fill="#007cdc" rx="2" ry="2">
+              <title>Other: 00m</title>
+            </rect>
+           
+            <rect x="165" y="68.01655835374697" width="30" height="1.4911536119478348" fill="#0089fb" rx="2" ry="2">
+              <title>YAML: 08m</title>
+            </rect>
+           <text x="180.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Mon</text> 
+            <rect x="210" y="105.44549843275503" width="30" height="1.0545015672449678" fill="#2c81df" rx="2" ry="2">
+              <title>Git: 06m</title>
+            </rect>
+           
+            <rect x="210" y="101.47613039618554" width="30" height="3.9693680365694877" fill="#124fff" rx="2" ry="2">
+              <title>CSS: 22m</title>
+            </rect>
+           
+            <rect x="210" y="84.4728250590688" width="30" height="17.00330533711674" fill="#2248ff" rx="2" ry="2">
+              <title>Blade Tem…: 01:36</title>
+            </rect>
+           <text x="225.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Tue</text> 
+            <rect x="255" y="99.93497765456368" width="30" height="6.565022345436324" fill="#2040ff" rx="2" ry="2">
+              <title>PHP: 37m</title>
+            </rect>
+           
+            <rect x="255" y="96.45701467369578" width="30" height="3.4779629808678947" fill="#2248ff" rx="2" ry="2">
+              <title>Blade Tem…: 19m</title>
+            </rect>
+           <text x="270.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Wed</text> <text x="315.0" y="118.5" font-weight="bold" font-size="10" text-anchor="middle" fill="#37b7a8">Thu</text> 
+            <circle cx="35.5" cy="150.5" r="5" fill="#2040ff" />
+            <text x="47.5" y="154.5" font-size="10" fill="#37b7a8">PHP</text>
+           
+            <circle cx="158.5" cy="150.5" r="5" fill="#2c81df" />
+            <text x="170.5" y="154.5" font-size="10" fill="#37b7a8">Git</text>
+           
+            <circle cx="281.5" cy="150.5" r="5" fill="#0051f1" />
+            <text x="293.5" y="154.5" font-size="10" fill="#37b7a8">Python</text>
+           
+            <circle cx="35.5" cy="170.5" r="5" fill="#124fff" />
+            <text x="47.5" y="174.5" font-size="10" fill="#37b7a8">CSS</text>
+           
+            <circle cx="158.5" cy="170.5" r="5" fill="#0689ff" />
+            <text x="170.5" y="174.5" font-size="10" fill="#37b7a8">Bash</text>
+           
+            <circle cx="281.5" cy="170.5" r="5" fill="#2248ff" />
+            <text x="293.5" y="174.5" font-size="10" fill="#37b7a8">Blade Tem…</text>
+           
+            <circle cx="35.5" cy="190.5" r="5" fill="#008df7" />
+            <text x="47.5" y="194.5" font-size="10" fill="#37b7a8">JSON</text>
+           
+            <circle cx="158.5" cy="190.5" r="5" fill="#2154e2" />
+            <text x="170.5" y="194.5" font-size="10" fill="#37b7a8">Git Config</text>
+           
+            <circle cx="281.5" cy="190.5" r="5" fill="#2085da" />
+            <text x="293.5" y="194.5" font-size="10" fill="#37b7a8">Markdown</text>
+           
+            <circle cx="35.5" cy="210.5" r="5" fill="#008ef9" />
+            <text x="47.5" y="214.5" font-size="10" fill="#37b7a8">JavaScript</text>
+           
+            <circle cx="158.5" cy="210.5" r="5" fill="#007cdc" />
+            <text x="170.5" y="214.5" font-size="10" fill="#37b7a8">Other</text>
+           
+            <circle cx="281.5" cy="210.5" r="5" fill="#003fff" />
+            <text x="293.5" y="214.5" font-size="10" fill="#37b7a8">Text</text>
+           
+            <circle cx="35.5" cy="230.5" r="5" fill="#0089fb" />
+            <text x="47.5" y="234.5" font-size="10" fill="#37b7a8">YAML</text>
           
-    <text x="177.5" y="202.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 1 hr 56 mins</text>
+    <text x="177.5" y="262.5" font-size="12" text-anchor="middle" fill="#37b7a8"><tspan font-weight="bold">Total:</tspan> 16 hrs 25 mins</text>
     </g>
 </svg>
